@@ -1,4 +1,7 @@
-# PHP frontend (talks to the Flask backend)
+# smart-doctor
+Smart Doctor Appointment Scheduling – ML Component
+
+## PHP frontend (talks to the Flask backend)
 
 Run both servers at the same time:
 

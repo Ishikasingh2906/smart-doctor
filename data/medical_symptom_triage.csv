@@ -1,0 +1,2000 @@
+age,comorbidities,gender,symptom_1,symptom_2,symptom_3,urgency
+65,Hypertension,Female,fever,stomach pain,weakness,High
+61,Diabetes,Male,fever,chills,sweating,Low
+76,Hypertension,Female,headache,dizziness,blurred vision,Low
+23,None,Male,fever,dry cough,loss of taste,High
+47,None,Female,fever,dry cough,loss of taste,High
+31,None,Male,fever,dry cough,loss of taste,Medium
+50,Hypertension,Female,headache,dizziness,blurred vision,Low
+48,Heart Disease,Male,headache,dizziness,blurred vision,High
+54,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+83,Diabetes,Male,cough,runny nose,sneezing,Low
+10,Heart Disease,Male,cough,runny nose,sneezing,Low
+4,Asthma,Female,fever,body pain,cough,Low
+81,None,Female,headache,nausea,light sensitivity,Medium
+34,None,Female,fever,chills,sweating,Medium
+70,None,Female,fever,chills,sweating,Low
+37,Heart Disease,Female,fever,body pain,cough,Medium
+8,None,Female,breathing difficulty,wheezing,chest tightness,High
+75,Heart Disease,Male,high fever,joint pain,headache,Low
+39,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,High
+86,Diabetes,Female,fever,stomach pain,weakness,Medium
+20,Heart Disease,Male,fever,stomach pain,weakness,High
+12,None,Female,cough,runny nose,sneezing,Medium
+42,None,Female,fever,body pain,cough,Medium
+51,None,Male,fever,dry cough,loss of taste,Low
+23,None,Male,fever,stomach pain,weakness,Low
+64,Hypertension,Male,headache,nausea,light sensitivity,Medium
+32,Hypertension,Male,high fever,joint pain,headache,High
+74,Diabetes,Male,fever,dry cough,loss of taste,Low
+22,None,Male,cough,runny nose,sneezing,Low
+12,None,Male,breathing difficulty,wheezing,chest tightness,High
+23,Diabetes,Female,high fever,joint pain,headache,High
+11,None,Female,fever,body pain,cough,Low
+13,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+78,Diabetes,Male,fever,body pain,cough,Low
+19,None,Female,fever,chills,sweating,Low
+82,Hypertension,Male,high fever,joint pain,headache,Medium
+58,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+73,Diabetes,Male,fever,dry cough,loss of taste,Low
+76,Hypertension,Male,fever,chills,sweating,High
+33,None,Female,fever,body pain,cough,Medium
+46,Asthma,Male,breathing difficulty,wheezing,chest tightness,Medium
+10,None,Female,fever,chills,sweating,Medium
+39,None,Female,headache,dizziness,blurred vision,Medium
+83,Hypertension,Female,cough,runny nose,sneezing,Low
+49,None,Male,fever,stomach pain,weakness,Low
+58,Asthma,Female,high fever,joint pain,headache,Low
+13,None,Male,fever,chills,sweating,High
+1,None,Female,cough,runny nose,sneezing,Medium
+26,None,Male,fever,dry cough,loss of taste,Low
+65,None,Male,fever,body pain,cough,Low
+44,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+51,Diabetes,Male,high fever,joint pain,headache,Medium
+5,None,Male,fever,dry cough,loss of taste,Medium
+76,None,Male,headache,dizziness,blurred vision,Medium
+80,Diabetes,Female,fever,body pain,cough,Medium
+58,Hypertension,Male,fever,dry cough,loss of taste,Medium
+75,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Low
+17,None,Female,fever,chills,sweating,High
+8,Asthma,Female,high fever,joint pain,headache,Low
+59,Asthma,Male,thirst,fatigue,frequent urination,Low
+52,None,Female,thirst,fatigue,frequent urination,Low
+59,None,Male,thirst,fatigue,frequent urination,High
+45,None,Female,cough,runny nose,sneezing,Medium
+5,None,Female,fever,chills,sweating,High
+19,None,Male,fever,body pain,cough,Medium
+32,None,Male,thirst,fatigue,frequent urination,High
+60,"Diabetes, Hypertension",Female,fever,chills,sweating,High
+62,Hypertension,Male,fever,chills,sweating,Low
+24,None,Male,headache,dizziness,blurred vision,Medium
+13,Heart Disease,Male,headache,dizziness,blurred vision,High
+75,None,Male,cough,runny nose,sneezing,Medium
+42,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Medium
+32,None,Male,high fever,joint pain,headache,Low
+40,None,Male,high fever,joint pain,headache,Medium
+89,Heart Disease,Female,fever,stomach pain,weakness,High
+72,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Medium
+63,None,Female,fever,dry cough,loss of taste,High
+52,"Diabetes, Hypertension",Male,high fever,joint pain,headache,High
+47,None,Male,fever,stomach pain,weakness,Medium
+32,Diabetes,Male,fever,stomach pain,weakness,High
+73,Hypertension,Male,headache,dizziness,blurred vision,Medium
+33,None,Male,high fever,joint pain,headache,Medium
+11,None,Male,headache,dizziness,blurred vision,Low
+21,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Medium
+47,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+1,None,Female,headache,nausea,light sensitivity,Medium
+13,None,Male,cough,runny nose,sneezing,Low
+90,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+54,Diabetes,Male,fever,dry cough,loss of taste,Medium
+36,None,Male,thirst,fatigue,frequent urination,Medium
+23,None,Male,fever,body pain,cough,Low
+54,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+30,Hypertension,Male,headache,dizziness,blurred vision,Low
+34,Asthma,Female,fever,chills,sweating,Low
+81,None,Male,fever,stomach pain,weakness,Medium
+50,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Low
+5,Asthma,Male,breathing difficulty,wheezing,chest tightness,Medium
+28,None,Female,breathing difficulty,wheezing,chest tightness,High
+38,Diabetes,Female,fever,dry cough,loss of taste,Low
+55,None,Male,fever,body pain,cough,Medium
+69,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,High
+49,None,Male,fever,stomach pain,weakness,High
+16,None,Male,fever,chills,sweating,High
+5,None,Female,breathing difficulty,wheezing,chest tightness,Low
+80,None,Male,headache,dizziness,blurred vision,Low
+63,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,High
+87,None,Male,fever,body pain,cough,Low
+63,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+64,Hypertension,Female,headache,dizziness,blurred vision,Medium
+84,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+5,None,Female,thirst,fatigue,frequent urination,Low
+28,None,Female,breathing difficulty,wheezing,chest tightness,High
+27,Asthma,Male,breathing difficulty,wheezing,chest tightness,Medium
+75,Diabetes,Female,fever,chills,sweating,Low
+40,Hypertension,Male,headache,nausea,light sensitivity,Low
+90,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+20,None,Female,thirst,fatigue,frequent urination,Medium
+87,Diabetes,Male,high fever,joint pain,headache,High
+39,None,Female,fever,stomach pain,weakness,High
+2,Diabetes,Male,fever,chills,sweating,High
+46,None,Male,cough,runny nose,sneezing,Medium
+37,None,Female,breathing difficulty,wheezing,chest tightness,Low
+19,None,Female,breathing difficulty,wheezing,chest tightness,Low
+41,Diabetes,Male,high fever,joint pain,headache,Medium
+87,Diabetes,Male,thirst,fatigue,frequent urination,Low
+62,None,Female,fever,dry cough,loss of taste,Low
+60,Diabetes,Male,thirst,fatigue,frequent urination,High
+84,Hypertension,Female,fever,body pain,cough,Low
+2,None,Male,high fever,joint pain,headache,Medium
+33,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,Medium
+5,None,Male,fever,chills,sweating,High
+3,None,Male,fever,dry cough,loss of taste,Medium
+81,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+9,None,Male,breathing difficulty,wheezing,chest tightness,Low
+15,None,Female,high fever,joint pain,headache,Low
+73,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+60,None,Female,fever,stomach pain,weakness,Low
+57,None,Female,fever,chills,sweating,High
+50,None,Male,fever,chills,sweating,Low
+11,None,Female,breathing difficulty,wheezing,chest tightness,Low
+70,None,Male,fever,body pain,cough,Medium
+66,Diabetes,Female,high fever,joint pain,headache,Medium
+86,None,Male,breathing difficulty,wheezing,chest tightness,Low
+88,Heart Disease,Female,fever,chills,sweating,Medium
+46,Hypertension,Male,high fever,joint pain,headache,High
+69,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,High
+28,None,Male,headache,dizziness,blurred vision,Medium
+79,Diabetes,Female,thirst,fatigue,frequent urination,Low
+27,Hypertension,Female,high fever,joint pain,headache,Medium
+74,Diabetes,Male,cough,runny nose,sneezing,Low
+28,Diabetes,Male,fever,dry cough,loss of taste,High
+41,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+40,None,Female,fever,stomach pain,weakness,Medium
+17,None,Female,high fever,joint pain,headache,Low
+82,Hypertension,Female,cough,runny nose,sneezing,Low
+60,Hypertension,Female,thirst,fatigue,frequent urination,Low
+11,None,Male,fever,chills,sweating,High
+45,Hypertension,Male,thirst,fatigue,frequent urination,High
+69,None,Male,fever,chills,sweating,Low
+31,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Low
+71,None,Male,breathing difficulty,wheezing,chest tightness,High
+42,None,Male,fever,chills,sweating,Low
+65,None,Male,fever,body pain,cough,Low
+54,None,Male,headache,dizziness,blurred vision,Medium
+89,"Diabetes, Hypertension",Male,fever,chills,sweating,Low
+19,Hypertension,Female,fever,chills,sweating,Low
+63,None,Male,headache,dizziness,blurred vision,Medium
+36,Asthma,Female,fever,body pain,cough,Medium
+60,None,Female,cough,runny nose,sneezing,Medium
+79,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+12,None,Female,high fever,joint pain,headache,High
+86,Heart Disease,Female,fever,body pain,cough,Low
+42,None,Female,fever,stomach pain,weakness,Low
+22,Diabetes,Male,headache,dizziness,blurred vision,High
+55,Diabetes,Female,fever,body pain,cough,Medium
+75,Diabetes,Male,headache,dizziness,blurred vision,Low
+18,None,Female,fever,dry cough,loss of taste,Low
+23,Asthma,Female,thirst,fatigue,frequent urination,Medium
+25,None,Male,thirst,fatigue,frequent urination,High
+49,Asthma,Female,breathing difficulty,wheezing,chest tightness,High
+47,None,Male,fever,stomach pain,weakness,Medium
+40,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,Medium
+63,None,Female,breathing difficulty,wheezing,chest tightness,Low
+77,Hypertension,Female,fever,dry cough,loss of taste,Medium
+28,Asthma,Male,cough,runny nose,sneezing,Medium
+44,None,Female,breathing difficulty,wheezing,chest tightness,High
+62,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Medium
+63,Heart Disease,Male,fever,stomach pain,weakness,Medium
+16,None,Female,headache,dizziness,blurred vision,Low
+8,None,Female,fever,chills,sweating,High
+26,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Medium
+76,None,Male,fever,dry cough,loss of taste,Medium
+27,None,Female,high fever,joint pain,headache,High
+25,Diabetes,Female,headache,dizziness,blurred vision,High
+19,Diabetes,Male,cough,runny nose,sneezing,Low
+54,None,Female,fever,chills,sweating,High
+9,None,Male,fever,dry cough,loss of taste,High
+71,Hypertension,Female,fever,chills,sweating,High
+30,None,Male,fever,stomach pain,weakness,High
+35,Hypertension,Female,high fever,joint pain,headache,Low
+24,None,Female,breathing difficulty,wheezing,chest tightness,Low
+13,None,Male,high fever,joint pain,headache,Low
+37,None,Female,headache,dizziness,blurred vision,High
+83,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Medium
+8,None,Male,fever,body pain,cough,Medium
+68,None,Male,high fever,joint pain,headache,High
+58,Heart Disease,Female,fever,chills,sweating,Low
+35,None,Male,fever,chills,sweating,Medium
+83,Heart Disease,Male,fever,dry cough,loss of taste,Low
+40,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Medium
+3,None,Male,fever,body pain,cough,Medium
+89,Diabetes,Female,headache,dizziness,blurred vision,Medium
+44,None,Female,high fever,joint pain,headache,High
+28,None,Male,breathing difficulty,wheezing,chest tightness,High
+26,Asthma,Male,high fever,joint pain,headache,Medium
+50,Hypertension,Male,fever,stomach pain,weakness,Low
+65,Hypertension,Female,fever,dry cough,loss of taste,Medium
+76,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+74,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+36,None,Male,headache,nausea,light sensitivity,Low
+57,None,Female,thirst,fatigue,frequent urination,Medium
+32,None,Female,thirst,fatigue,frequent urination,High
+86,"Diabetes, Hypertension",Female,headache,dizziness,blurred vision,Medium
+24,None,Female,fever,dry cough,loss of taste,Medium
+52,Hypertension,Female,headache,dizziness,blurred vision,Low
+19,None,Male,cough,runny nose,sneezing,Low
+52,None,Female,headache,dizziness,blurred vision,Medium
+34,None,Female,thirst,fatigue,frequent urination,Medium
+79,Hypertension,Female,headache,nausea,light sensitivity,Medium
+53,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,Low
+55,None,Female,fever,stomach pain,weakness,Medium
+68,None,Female,high fever,joint pain,headache,High
+72,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Low
+89,None,Male,cough,runny nose,sneezing,Low
+42,None,Female,high fever,joint pain,headache,Low
+27,None,Female,headache,dizziness,blurred vision,Low
+50,Diabetes,Female,fever,dry cough,loss of taste,High
+23,None,Female,fever,dry cough,loss of taste,Medium
+42,Hypertension,Male,headache,dizziness,blurred vision,Medium
+65,Asthma,Female,fever,stomach pain,weakness,Medium
+90,Diabetes,Male,thirst,fatigue,frequent urination,High
+45,None,Female,high fever,joint pain,headache,High
+24,Hypertension,Male,fever,dry cough,loss of taste,Low
+47,Diabetes,Female,headache,nausea,light sensitivity,Low
+88,Heart Disease,Female,headache,dizziness,blurred vision,High
+43,Hypertension,Male,fever,stomach pain,weakness,Low
+8,Asthma,Male,fever,dry cough,loss of taste,High
+20,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+57,None,Female,fever,chills,sweating,Low
+55,None,Female,fever,stomach pain,weakness,High
+19,Hypertension,Female,fever,chills,sweating,Low
+50,Hypertension,Male,high fever,joint pain,headache,Low
+68,None,Female,fever,stomach pain,weakness,Low
+41,None,Female,fever,body pain,cough,Medium
+86,Hypertension,Female,headache,dizziness,blurred vision,Medium
+72,Diabetes,Female,cough,runny nose,sneezing,Low
+19,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+7,None,Male,headache,dizziness,blurred vision,Medium
+75,Diabetes,Male,thirst,fatigue,frequent urination,Medium
+83,None,Female,breathing difficulty,wheezing,chest tightness,High
+11,None,Female,headache,dizziness,blurred vision,Low
+64,Asthma,Female,fever,body pain,cough,Medium
+17,None,Female,high fever,joint pain,headache,Low
+33,None,Female,headache,dizziness,blurred vision,Low
+30,None,Female,fever,body pain,cough,Medium
+59,None,Male,cough,runny nose,sneezing,Low
+72,Diabetes,Female,fever,body pain,cough,Low
+85,Diabetes,Male,thirst,fatigue,frequent urination,Medium
+31,None,Female,high fever,joint pain,headache,Low
+44,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Low
+32,Hypertension,Female,fever,chills,sweating,Medium
+51,None,Male,fever,chills,sweating,Low
+67,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+41,Diabetes,Female,fever,chills,sweating,High
+40,Diabetes,Female,fever,dry cough,loss of taste,High
+12,None,Female,cough,runny nose,sneezing,Low
+83,Hypertension,Female,high fever,joint pain,headache,Medium
+12,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+62,Diabetes,Male,fever,stomach pain,weakness,Medium
+8,None,Male,fever,stomach pain,weakness,Medium
+69,Diabetes,Female,headache,dizziness,blurred vision,Low
+60,Asthma,Male,fever,stomach pain,weakness,High
+1,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+52,None,Female,high fever,joint pain,headache,Low
+81,Diabetes,Male,headache,nausea,light sensitivity,Medium
+87,Asthma,Male,headache,dizziness,blurred vision,High
+37,Diabetes,Female,headache,dizziness,blurred vision,Low
+57,None,Male,fever,chills,sweating,High
+79,"Diabetes, Hypertension",Female,headache,nausea,light sensitivity,Low
+84,Diabetes,Female,headache,dizziness,blurred vision,Medium
+19,Asthma,Male,high fever,joint pain,headache,High
+62,Hypertension,Male,high fever,joint pain,headache,High
+70,Hypertension,Female,fever,dry cough,loss of taste,Medium
+80,Diabetes,Male,fever,chills,sweating,Low
+81,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+45,Asthma,Male,cough,runny nose,sneezing,Low
+1,None,Female,headache,nausea,light sensitivity,Medium
+39,Heart Disease,Female,high fever,joint pain,headache,Medium
+66,Diabetes,Female,high fever,joint pain,headache,Medium
+80,None,Female,thirst,fatigue,frequent urination,Low
+5,Diabetes,Female,fever,chills,sweating,High
+79,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+89,Diabetes,Female,fever,dry cough,loss of taste,High
+39,None,Female,high fever,joint pain,headache,Low
+66,Diabetes,Female,headache,dizziness,blurred vision,Medium
+90,None,Male,fever,chills,sweating,Low
+46,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Low
+17,None,Male,fever,stomach pain,weakness,Medium
+34,Heart Disease,Female,cough,runny nose,sneezing,Low
+16,None,Male,headache,nausea,light sensitivity,Low
+28,None,Female,headache,dizziness,blurred vision,High
+55,None,Female,fever,chills,sweating,High
+84,Diabetes,Female,headache,dizziness,blurred vision,High
+18,None,Male,cough,runny nose,sneezing,Medium
+52,None,Female,fever,body pain,cough,Medium
+81,Diabetes,Male,headache,dizziness,blurred vision,High
+13,None,Male,fever,chills,sweating,High
+86,Hypertension,Female,headache,dizziness,blurred vision,Medium
+78,Hypertension,Female,headache,nausea,light sensitivity,Low
+63,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+2,None,Female,headache,dizziness,blurred vision,Medium
+80,"Diabetes, Hypertension",Female,headache,dizziness,blurred vision,Low
+49,None,Male,high fever,joint pain,headache,High
+16,None,Male,fever,dry cough,loss of taste,Low
+31,None,Female,headache,dizziness,blurred vision,Medium
+50,None,Female,fever,stomach pain,weakness,High
+48,Diabetes,Male,fever,body pain,cough,Medium
+49,None,Female,fever,dry cough,loss of taste,Low
+51,Asthma,Female,high fever,joint pain,headache,Low
+50,None,Female,headache,dizziness,blurred vision,High
+62,Diabetes,Male,fever,chills,sweating,High
+54,Hypertension,Male,high fever,joint pain,headache,High
+90,Heart Disease,Female,headache,dizziness,blurred vision,High
+90,Diabetes,Male,thirst,fatigue,frequent urination,High
+35,None,Male,cough,runny nose,sneezing,Low
+73,Diabetes,Male,fever,stomach pain,weakness,Low
+2,None,Male,fever,stomach pain,weakness,High
+69,Hypertension,Female,fever,chills,sweating,Medium
+3,Diabetes,Male,fever,body pain,cough,Low
+89,Hypertension,Male,headache,nausea,light sensitivity,Medium
+41,None,Female,breathing difficulty,wheezing,chest tightness,Low
+80,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+62,Heart Disease,Male,headache,dizziness,blurred vision,High
+21,None,Male,headache,nausea,light sensitivity,Medium
+77,Diabetes,Male,fever,dry cough,loss of taste,Medium
+47,None,Female,thirst,fatigue,frequent urination,Low
+88,Hypertension,Male,cough,runny nose,sneezing,Low
+3,None,Female,fever,body pain,cough,Low
+13,None,Male,headache,dizziness,blurred vision,Medium
+35,None,Female,fever,chills,sweating,High
+30,None,Male,thirst,fatigue,frequent urination,High
+74,Diabetes,Female,fever,body pain,cough,Low
+69,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,High
+36,None,Female,headache,nausea,light sensitivity,Low
+81,None,Male,thirst,fatigue,frequent urination,Low
+70,Diabetes,Female,fever,stomach pain,weakness,High
+27,None,Male,breathing difficulty,wheezing,chest tightness,High
+84,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,High
+85,"Diabetes, Hypertension",Male,high fever,joint pain,headache,Medium
+59,None,Female,high fever,joint pain,headache,Medium
+1,"Diabetes, Hypertension",Female,fever,stomach pain,weakness,High
+90,Hypertension,Female,thirst,fatigue,frequent urination,High
+49,Diabetes,Male,cough,runny nose,sneezing,Medium
+30,Hypertension,Male,high fever,joint pain,headache,Low
+19,None,Female,headache,dizziness,blurred vision,Medium
+81,Heart Disease,Male,fever,stomach pain,weakness,Medium
+37,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Low
+73,Hypertension,Female,headache,dizziness,blurred vision,High
+11,None,Female,breathing difficulty,wheezing,chest tightness,Low
+74,None,Female,headache,nausea,light sensitivity,Medium
+90,Diabetes,Male,thirst,fatigue,frequent urination,High
+3,Diabetes,Male,fever,stomach pain,weakness,Medium
+16,Asthma,Male,high fever,joint pain,headache,Low
+81,Heart Disease,Male,fever,stomach pain,weakness,Medium
+26,Diabetes,Male,headache,dizziness,blurred vision,Low
+37,Asthma,Female,fever,chills,sweating,Medium
+9,None,Male,fever,body pain,cough,Low
+26,Asthma,Male,fever,body pain,cough,Medium
+49,None,Female,thirst,fatigue,frequent urination,Medium
+30,Asthma,Male,high fever,joint pain,headache,High
+59,None,Male,fever,chills,sweating,Medium
+55,Asthma,Male,headache,nausea,light sensitivity,Low
+70,Asthma,Female,thirst,fatigue,frequent urination,Medium
+29,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+81,Diabetes,Female,fever,body pain,cough,Medium
+87,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+50,Asthma,Male,fever,stomach pain,weakness,High
+42,None,Male,fever,dry cough,loss of taste,Medium
+20,None,Female,high fever,joint pain,headache,High
+21,None,Male,headache,nausea,light sensitivity,Medium
+41,Heart Disease,Female,headache,nausea,light sensitivity,Medium
+43,None,Male,fever,stomach pain,weakness,High
+24,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+43,None,Female,fever,stomach pain,weakness,Low
+41,None,Female,high fever,joint pain,headache,Low
+19,None,Female,headache,dizziness,blurred vision,Low
+16,None,Female,thirst,fatigue,frequent urination,Low
+90,Hypertension,Male,fever,body pain,cough,Medium
+13,None,Male,fever,dry cough,loss of taste,High
+30,Asthma,Female,thirst,fatigue,frequent urination,Low
+5,None,Male,fever,body pain,cough,Medium
+57,None,Male,fever,body pain,cough,Medium
+90,None,Male,high fever,joint pain,headache,High
+78,Hypertension,Male,thirst,fatigue,frequent urination,Low
+14,None,Female,headache,dizziness,blurred vision,Low
+17,None,Male,fever,chills,sweating,Medium
+82,None,Female,fever,dry cough,loss of taste,Low
+29,None,Female,high fever,joint pain,headache,High
+68,None,Female,fever,dry cough,loss of taste,High
+44,None,Female,thirst,fatigue,frequent urination,High
+69,Hypertension,Male,headache,nausea,light sensitivity,Medium
+22,None,Female,headache,dizziness,blurred vision,Medium
+80,None,Female,thirst,fatigue,frequent urination,Low
+22,Asthma,Male,fever,stomach pain,weakness,High
+25,Asthma,Male,fever,dry cough,loss of taste,Low
+39,None,Female,thirst,fatigue,frequent urination,Medium
+63,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+4,None,Male,thirst,fatigue,frequent urination,Medium
+3,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Low
+89,Diabetes,Male,fever,stomach pain,weakness,High
+31,None,Male,cough,runny nose,sneezing,Low
+63,None,Female,high fever,joint pain,headache,High
+46,None,Female,thirst,fatigue,frequent urination,Medium
+88,Diabetes,Male,cough,runny nose,sneezing,Medium
+74,Diabetes,Male,headache,dizziness,blurred vision,Low
+2,Heart Disease,Male,high fever,joint pain,headache,Medium
+86,Heart Disease,Male,fever,chills,sweating,High
+82,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+88,Heart Disease,Female,fever,chills,sweating,Medium
+33,None,Male,fever,dry cough,loss of taste,Low
+30,None,Female,thirst,fatigue,frequent urination,Medium
+27,Diabetes,Female,thirst,fatigue,frequent urination,High
+41,Hypertension,Male,thirst,fatigue,frequent urination,Low
+84,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+87,None,Female,headache,dizziness,blurred vision,High
+43,None,Male,thirst,fatigue,frequent urination,Low
+34,None,Female,fever,chills,sweating,High
+2,None,Male,high fever,joint pain,headache,Low
+90,None,Female,fever,stomach pain,weakness,Medium
+15,Asthma,Male,headache,dizziness,blurred vision,Low
+62,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Medium
+78,Diabetes,Female,fever,chills,sweating,High
+85,Hypertension,Male,fever,stomach pain,weakness,Low
+87,None,Male,fever,stomach pain,weakness,Low
+23,None,Female,headache,nausea,light sensitivity,Low
+63,None,Female,breathing difficulty,wheezing,chest tightness,Low
+4,None,Female,fever,body pain,cough,Low
+36,None,Male,thirst,fatigue,frequent urination,Low
+38,None,Male,fever,dry cough,loss of taste,Low
+27,None,Female,thirst,fatigue,frequent urination,Low
+52,Hypertension,Female,headache,nausea,light sensitivity,Low
+55,None,Male,cough,runny nose,sneezing,Low
+56,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+67,Hypertension,Male,fever,body pain,cough,Medium
+60,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Low
+58,Diabetes,Female,fever,stomach pain,weakness,Medium
+75,Asthma,Female,fever,stomach pain,weakness,High
+75,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,Low
+23,None,Female,headache,nausea,light sensitivity,Low
+58,"Diabetes, Hypertension",Female,high fever,joint pain,headache,High
+40,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+35,Diabetes,Female,headache,dizziness,blurred vision,Low
+7,Hypertension,Male,thirst,fatigue,frequent urination,High
+10,None,Male,headache,dizziness,blurred vision,High
+48,Asthma,Female,high fever,joint pain,headache,Medium
+27,None,Female,headache,nausea,light sensitivity,Medium
+76,Hypertension,Female,cough,runny nose,sneezing,Medium
+88,"Diabetes, Hypertension",Male,thirst,fatigue,frequent urination,High
+9,None,Female,high fever,joint pain,headache,Low
+89,Hypertension,Female,fever,dry cough,loss of taste,Medium
+15,Asthma,Female,fever,stomach pain,weakness,High
+40,Hypertension,Male,high fever,joint pain,headache,High
+78,Diabetes,Female,headache,dizziness,blurred vision,High
+40,None,Male,headache,dizziness,blurred vision,High
+43,None,Female,fever,stomach pain,weakness,Low
+26,None,Male,fever,stomach pain,weakness,Medium
+41,Asthma,Male,headache,dizziness,blurred vision,High
+4,Heart Disease,Male,fever,dry cough,loss of taste,Low
+9,None,Male,high fever,joint pain,headache,High
+84,"Diabetes, Hypertension",Female,fever,stomach pain,weakness,High
+40,Hypertension,Female,cough,runny nose,sneezing,Medium
+50,None,Female,breathing difficulty,wheezing,chest tightness,Low
+62,Diabetes,Male,high fever,joint pain,headache,Medium
+82,Hypertension,Female,headache,dizziness,blurred vision,High
+83,Diabetes,Female,headache,dizziness,blurred vision,Low
+33,None,Female,cough,runny nose,sneezing,Low
+67,Hypertension,Male,headache,dizziness,blurred vision,High
+50,None,Male,fever,stomach pain,weakness,Medium
+4,None,Male,cough,runny nose,sneezing,Low
+9,None,Male,fever,dry cough,loss of taste,Medium
+85,Hypertension,Male,fever,stomach pain,weakness,Low
+39,None,Female,headache,dizziness,blurred vision,Medium
+66,Heart Disease,Male,fever,dry cough,loss of taste,Medium
+26,None,Male,headache,dizziness,blurred vision,Low
+5,None,Male,high fever,joint pain,headache,High
+82,Heart Disease,Female,fever,stomach pain,weakness,High
+78,Hypertension,Male,headache,dizziness,blurred vision,Low
+27,None,Female,cough,runny nose,sneezing,Low
+4,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+77,Heart Disease,Male,headache,nausea,light sensitivity,Low
+57,None,Male,headache,dizziness,blurred vision,Medium
+53,Asthma,Female,fever,chills,sweating,High
+67,Diabetes,Male,fever,chills,sweating,High
+58,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Low
+38,None,Male,fever,stomach pain,weakness,High
+76,Diabetes,Female,headache,dizziness,blurred vision,High
+19,None,Female,high fever,joint pain,headache,Medium
+39,Diabetes,Male,fever,body pain,cough,Low
+63,None,Male,fever,chills,sweating,Medium
+22,None,Female,fever,stomach pain,weakness,Low
+28,Hypertension,Female,fever,chills,sweating,High
+63,Hypertension,Female,fever,stomach pain,weakness,High
+36,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+61,Asthma,Male,fever,body pain,cough,Low
+37,None,Female,fever,chills,sweating,Medium
+62,None,Female,headache,dizziness,blurred vision,High
+74,Diabetes,Male,fever,dry cough,loss of taste,Low
+27,Hypertension,Male,cough,runny nose,sneezing,Medium
+2,None,Male,headache,dizziness,blurred vision,Low
+11,None,Female,high fever,joint pain,headache,Low
+66,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+78,None,Female,high fever,joint pain,headache,Medium
+34,None,Male,high fever,joint pain,headache,High
+35,None,Male,thirst,fatigue,frequent urination,Low
+20,None,Female,fever,chills,sweating,Medium
+52,Hypertension,Male,high fever,joint pain,headache,Low
+77,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+89,Diabetes,Female,headache,dizziness,blurred vision,Low
+73,Diabetes,Female,fever,dry cough,loss of taste,Medium
+40,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+67,None,Male,high fever,joint pain,headache,Medium
+64,Diabetes,Male,high fever,joint pain,headache,High
+16,None,Male,cough,runny nose,sneezing,Low
+51,None,Female,fever,chills,sweating,High
+65,Heart Disease,Female,headache,dizziness,blurred vision,Medium
+88,Diabetes,Male,fever,stomach pain,weakness,High
+76,Diabetes,Female,fever,body pain,cough,Medium
+49,None,Female,fever,chills,sweating,Low
+80,None,Female,fever,dry cough,loss of taste,High
+28,None,Male,high fever,joint pain,headache,Low
+46,Hypertension,Female,thirst,fatigue,frequent urination,High
+70,None,Male,fever,body pain,cough,Medium
+7,None,Female,fever,body pain,cough,Low
+45,None,Female,thirst,fatigue,frequent urination,Low
+85,Diabetes,Female,headache,dizziness,blurred vision,Low
+27,Hypertension,Male,fever,stomach pain,weakness,Medium
+13,None,Female,cough,runny nose,sneezing,Low
+43,Hypertension,Female,fever,stomach pain,weakness,Medium
+86,Diabetes,Male,cough,runny nose,sneezing,Low
+89,Diabetes,Female,fever,chills,sweating,High
+23,Hypertension,Female,headache,nausea,light sensitivity,Low
+60,Asthma,Male,breathing difficulty,wheezing,chest tightness,Low
+89,Diabetes,Male,headache,dizziness,blurred vision,Medium
+48,None,Male,fever,stomach pain,weakness,High
+24,None,Male,thirst,fatigue,frequent urination,Medium
+52,Heart Disease,Female,fever,dry cough,loss of taste,Low
+13,None,Female,fever,stomach pain,weakness,Low
+2,None,Female,high fever,joint pain,headache,High
+14,None,Male,fever,chills,sweating,High
+53,Hypertension,Female,cough,runny nose,sneezing,Low
+76,None,Male,fever,chills,sweating,High
+28,None,Male,fever,stomach pain,weakness,High
+26,Diabetes,Male,high fever,joint pain,headache,Low
+28,None,Male,thirst,fatigue,frequent urination,Low
+81,Heart Disease,Male,fever,stomach pain,weakness,Low
+17,None,Female,high fever,joint pain,headache,High
+83,Diabetes,Male,cough,runny nose,sneezing,Low
+25,Hypertension,Female,cough,runny nose,sneezing,Medium
+45,Hypertension,Female,fever,dry cough,loss of taste,High
+6,None,Male,fever,dry cough,loss of taste,Medium
+84,Heart Disease,Female,thirst,fatigue,frequent urination,Medium
+53,Hypertension,Male,headache,nausea,light sensitivity,Medium
+38,None,Female,cough,runny nose,sneezing,Medium
+54,None,Male,cough,runny nose,sneezing,Medium
+35,None,Male,thirst,fatigue,frequent urination,Low
+20,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+85,Diabetes,Male,fever,dry cough,loss of taste,High
+71,Diabetes,Female,headache,nausea,light sensitivity,Medium
+71,None,Male,high fever,joint pain,headache,Low
+83,None,Male,high fever,joint pain,headache,High
+26,Asthma,Male,fever,body pain,cough,Medium
+55,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,Medium
+18,None,Female,thirst,fatigue,frequent urination,Low
+53,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+27,None,Female,thirst,fatigue,frequent urination,Low
+71,Heart Disease,Female,cough,runny nose,sneezing,Low
+46,None,Female,headache,dizziness,blurred vision,Medium
+47,Diabetes,Male,fever,stomach pain,weakness,Medium
+75,Asthma,Male,headache,dizziness,blurred vision,High
+71,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Medium
+45,Diabetes,Female,headache,nausea,light sensitivity,Low
+74,None,Male,fever,chills,sweating,Medium
+38,Hypertension,Female,fever,chills,sweating,Medium
+18,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+61,Hypertension,Female,fever,dry cough,loss of taste,High
+7,Hypertension,Male,thirst,fatigue,frequent urination,High
+60,Hypertension,Male,headache,nausea,light sensitivity,Medium
+22,None,Male,fever,chills,sweating,High
+77,None,Male,cough,runny nose,sneezing,Low
+61,None,Male,fever,chills,sweating,High
+81,Hypertension,Male,headache,dizziness,blurred vision,Low
+83,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Medium
+59,None,Male,fever,chills,sweating,Medium
+38,None,Female,headache,dizziness,blurred vision,High
+44,None,Male,fever,dry cough,loss of taste,High
+85,"Diabetes, Hypertension",Male,fever,body pain,cough,Low
+89,Heart Disease,Male,fever,chills,sweating,Low
+67,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+39,None,Male,fever,stomach pain,weakness,Low
+52,Diabetes,Female,headache,nausea,light sensitivity,Medium
+65,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,High
+55,Diabetes,Female,headache,dizziness,blurred vision,High
+14,None,Male,fever,body pain,cough,Low
+72,None,Male,high fever,joint pain,headache,High
+49,None,Female,fever,body pain,cough,Medium
+71,Diabetes,Female,fever,stomach pain,weakness,High
+36,None,Male,thirst,fatigue,frequent urination,Medium
+79,"Diabetes, Hypertension",Female,fever,stomach pain,weakness,High
+21,Diabetes,Male,headache,nausea,light sensitivity,Low
+45,None,Female,high fever,joint pain,headache,Low
+78,Diabetes,Male,fever,dry cough,loss of taste,Low
+65,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,High
+56,Diabetes,Female,cough,runny nose,sneezing,Low
+13,Asthma,Male,cough,runny nose,sneezing,Medium
+80,"Diabetes, Hypertension",Male,fever,body pain,cough,Medium
+50,None,Female,headache,dizziness,blurred vision,High
+52,Heart Disease,Male,high fever,joint pain,headache,Medium
+25,None,Male,thirst,fatigue,frequent urination,Low
+17,None,Male,high fever,joint pain,headache,High
+67,Diabetes,Female,fever,dry cough,loss of taste,Medium
+3,None,Female,fever,chills,sweating,Medium
+39,Heart Disease,Female,high fever,joint pain,headache,Medium
+25,None,Female,breathing difficulty,wheezing,chest tightness,High
+48,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+44,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+24,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Medium
+33,Diabetes,Female,fever,dry cough,loss of taste,Low
+70,None,Male,thirst,fatigue,frequent urination,High
+76,Hypertension,Male,high fever,joint pain,headache,High
+25,None,Female,fever,chills,sweating,Medium
+81,None,Female,headache,nausea,light sensitivity,Medium
+87,Heart Disease,Female,fever,dry cough,loss of taste,High
+87,Asthma,Male,fever,chills,sweating,Medium
+87,Hypertension,Female,thirst,fatigue,frequent urination,Low
+45,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+72,Diabetes,Male,high fever,joint pain,headache,High
+13,None,Male,thirst,fatigue,frequent urination,Low
+86,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+19,None,Male,fever,chills,sweating,High
+69,Hypertension,Female,high fever,joint pain,headache,Low
+8,None,Male,fever,chills,sweating,Medium
+40,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+76,Heart Disease,Female,fever,dry cough,loss of taste,Low
+79,Diabetes,Male,thirst,fatigue,frequent urination,Low
+61,None,Male,cough,runny nose,sneezing,Medium
+42,None,Male,fever,chills,sweating,High
+48,None,Female,headache,nausea,light sensitivity,Low
+82,None,Female,headache,nausea,light sensitivity,Medium
+12,None,Female,headache,dizziness,blurred vision,High
+74,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+88,Asthma,Male,fever,dry cough,loss of taste,High
+53,Diabetes,Male,headache,dizziness,blurred vision,High
+68,Diabetes,Female,fever,stomach pain,weakness,Medium
+19,None,Female,fever,chills,sweating,Low
+16,None,Female,high fever,joint pain,headache,High
+35,None,Male,high fever,joint pain,headache,Medium
+5,None,Male,fever,chills,sweating,High
+43,None,Female,fever,stomach pain,weakness,Low
+81,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Medium
+76,None,Male,headache,dizziness,blurred vision,Medium
+47,Hypertension,Female,fever,dry cough,loss of taste,Low
+31,None,Female,thirst,fatigue,frequent urination,High
+63,None,Male,fever,chills,sweating,Medium
+2,None,Male,breathing difficulty,wheezing,chest tightness,High
+63,Hypertension,Male,fever,chills,sweating,Low
+69,Asthma,Male,fever,stomach pain,weakness,High
+74,None,Female,fever,dry cough,loss of taste,High
+20,None,Female,headache,nausea,light sensitivity,Low
+20,None,Male,high fever,joint pain,headache,Medium
+41,Asthma,Male,headache,dizziness,blurred vision,High
+56,None,Female,thirst,fatigue,frequent urination,Low
+51,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+33,None,Female,fever,stomach pain,weakness,Medium
+2,Asthma,Female,thirst,fatigue,frequent urination,Medium
+57,None,Male,fever,body pain,cough,Low
+77,Asthma,Female,fever,dry cough,loss of taste,Medium
+13,None,Female,fever,stomach pain,weakness,Low
+44,None,Female,high fever,joint pain,headache,High
+27,None,Female,thirst,fatigue,frequent urination,Low
+24,None,Female,fever,body pain,cough,Low
+58,Hypertension,Male,fever,body pain,cough,Medium
+32,None,Male,cough,runny nose,sneezing,Low
+47,None,Male,fever,body pain,cough,Medium
+42,None,Female,high fever,joint pain,headache,Low
+44,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+35,None,Male,high fever,joint pain,headache,Low
+21,None,Male,thirst,fatigue,frequent urination,Low
+11,None,Male,fever,chills,sweating,High
+41,"Diabetes, Hypertension",Male,fever,body pain,cough,Medium
+80,None,Female,high fever,joint pain,headache,Low
+46,None,Male,high fever,joint pain,headache,Low
+86,None,Female,fever,stomach pain,weakness,Low
+27,None,Female,high fever,joint pain,headache,Medium
+51,None,Male,fever,dry cough,loss of taste,High
+17,None,Male,fever,dry cough,loss of taste,Medium
+43,Diabetes,Male,fever,chills,sweating,Medium
+37,None,Female,headache,nausea,light sensitivity,Medium
+60,None,Male,thirst,fatigue,frequent urination,Medium
+50,None,Female,fever,stomach pain,weakness,High
+89,Hypertension,Male,fever,chills,sweating,High
+25,None,Male,high fever,joint pain,headache,Medium
+16,Asthma,Male,fever,chills,sweating,High
+4,None,Female,breathing difficulty,wheezing,chest tightness,High
+65,Heart Disease,Female,headache,dizziness,blurred vision,Medium
+84,None,Male,breathing difficulty,wheezing,chest tightness,High
+64,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Medium
+34,Hypertension,Male,cough,runny nose,sneezing,Low
+32,None,Female,fever,stomach pain,weakness,Low
+77,Diabetes,Male,headache,nausea,light sensitivity,Low
+45,None,Female,headache,dizziness,blurred vision,Low
+52,None,Female,fever,body pain,cough,Medium
+4,None,Female,cough,runny nose,sneezing,Medium
+54,None,Female,fever,body pain,cough,Medium
+48,Heart Disease,Female,headache,nausea,light sensitivity,Medium
+70,None,Male,breathing difficulty,wheezing,chest tightness,Low
+77,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Medium
+13,None,Female,fever,stomach pain,weakness,Low
+77,None,Male,fever,stomach pain,weakness,Medium
+47,Diabetes,Male,fever,dry cough,loss of taste,Medium
+48,Asthma,Female,cough,runny nose,sneezing,Medium
+54,None,Male,thirst,fatigue,frequent urination,Low
+74,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Low
+69,None,Female,fever,dry cough,loss of taste,High
+46,None,Female,breathing difficulty,wheezing,chest tightness,High
+30,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+52,"Diabetes, Hypertension",Male,high fever,joint pain,headache,High
+54,None,Female,headache,nausea,light sensitivity,Low
+12,None,Female,fever,dry cough,loss of taste,High
+52,Hypertension,Female,fever,dry cough,loss of taste,Medium
+86,Heart Disease,Female,fever,body pain,cough,Low
+65,Asthma,Female,fever,stomach pain,weakness,Low
+27,Asthma,Male,breathing difficulty,wheezing,chest tightness,Medium
+66,Hypertension,Female,fever,dry cough,loss of taste,High
+30,None,Female,thirst,fatigue,frequent urination,High
+74,Hypertension,Male,fever,dry cough,loss of taste,High
+47,Hypertension,Female,headache,dizziness,blurred vision,Medium
+17,None,Female,thirst,fatigue,frequent urination,Medium
+46,Hypertension,Male,headache,dizziness,blurred vision,High
+20,Asthma,Female,fever,body pain,cough,Low
+83,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+65,"Diabetes, Hypertension",Female,high fever,joint pain,headache,Low
+73,Asthma,Male,fever,body pain,cough,Low
+38,None,Male,thirst,fatigue,frequent urination,Medium
+6,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+28,Diabetes,Male,high fever,joint pain,headache,Low
+40,None,Male,fever,chills,sweating,High
+52,None,Female,high fever,joint pain,headache,Low
+13,Diabetes,Female,high fever,joint pain,headache,High
+38,Diabetes,Female,fever,chills,sweating,Medium
+30,Heart Disease,Female,fever,chills,sweating,Low
+15,None,Male,breathing difficulty,wheezing,chest tightness,Low
+39,None,Female,cough,runny nose,sneezing,Low
+88,None,Female,fever,dry cough,loss of taste,Medium
+52,Heart Disease,Male,high fever,joint pain,headache,High
+43,Diabetes,Male,headache,dizziness,blurred vision,Low
+3,None,Male,fever,stomach pain,weakness,Medium
+4,None,Female,fever,dry cough,loss of taste,High
+1,Asthma,Female,thirst,fatigue,frequent urination,Medium
+57,Hypertension,Male,fever,stomach pain,weakness,Medium
+23,Asthma,Male,fever,dry cough,loss of taste,High
+27,None,Female,cough,runny nose,sneezing,Low
+33,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+12,"Diabetes, Hypertension",Male,fever,chills,sweating,Low
+11,None,Male,fever,stomach pain,weakness,High
+47,None,Male,fever,dry cough,loss of taste,Low
+86,None,Female,breathing difficulty,wheezing,chest tightness,High
+24,None,Female,fever,chills,sweating,Medium
+2,None,Male,breathing difficulty,wheezing,chest tightness,High
+72,Heart Disease,Male,headache,nausea,light sensitivity,Low
+79,None,Female,high fever,joint pain,headache,Low
+19,None,Male,headache,nausea,light sensitivity,Medium
+40,"Diabetes, Hypertension",Male,high fever,joint pain,headache,High
+90,Diabetes,Male,headache,nausea,light sensitivity,Low
+39,None,Female,fever,dry cough,loss of taste,Low
+71,None,Male,breathing difficulty,wheezing,chest tightness,Low
+76,Hypertension,Male,fever,chills,sweating,High
+25,None,Male,high fever,joint pain,headache,Medium
+64,Hypertension,Male,fever,dry cough,loss of taste,Low
+46,None,Male,fever,stomach pain,weakness,High
+35,Hypertension,Male,high fever,joint pain,headache,Low
+10,None,Male,breathing difficulty,wheezing,chest tightness,Low
+37,None,Male,fever,body pain,cough,Medium
+43,None,Female,breathing difficulty,wheezing,chest tightness,High
+83,"Diabetes, Hypertension",Female,fever,chills,sweating,Medium
+40,None,Female,breathing difficulty,wheezing,chest tightness,High
+29,None,Female,headache,nausea,light sensitivity,Low
+29,None,Female,fever,chills,sweating,High
+4,None,Male,thirst,fatigue,frequent urination,Medium
+29,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+52,None,Male,thirst,fatigue,frequent urination,High
+66,Hypertension,Male,fever,chills,sweating,Medium
+62,Hypertension,Female,fever,body pain,cough,Low
+15,None,Male,cough,runny nose,sneezing,Medium
+40,Heart Disease,Female,fever,chills,sweating,Low
+43,None,Female,fever,chills,sweating,High
+28,None,Male,fever,body pain,cough,Medium
+28,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+56,None,Male,headache,dizziness,blurred vision,Medium
+23,None,Male,high fever,joint pain,headache,Medium
+51,None,Female,fever,dry cough,loss of taste,Low
+1,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+47,None,Male,fever,dry cough,loss of taste,Low
+29,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+64,None,Male,fever,body pain,cough,Medium
+12,None,Male,headache,dizziness,blurred vision,Medium
+19,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+58,Hypertension,Female,headache,dizziness,blurred vision,Medium
+48,Asthma,Female,breathing difficulty,wheezing,chest tightness,Low
+21,Heart Disease,Female,headache,dizziness,blurred vision,High
+65,Diabetes,Female,thirst,fatigue,frequent urination,High
+16,None,Male,breathing difficulty,wheezing,chest tightness,High
+42,None,Male,thirst,fatigue,frequent urination,Low
+7,None,Male,fever,dry cough,loss of taste,Medium
+24,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+34,None,Male,headache,nausea,light sensitivity,Medium
+27,"Diabetes, Hypertension",Female,fever,chills,sweating,Medium
+42,Diabetes,Female,headache,nausea,light sensitivity,Low
+75,Heart Disease,Female,fever,body pain,cough,Low
+2,None,Male,thirst,fatigue,frequent urination,Medium
+66,None,Male,headache,nausea,light sensitivity,Medium
+75,Diabetes,Male,fever,stomach pain,weakness,Medium
+45,None,Male,headache,nausea,light sensitivity,Low
+30,None,Female,headache,dizziness,blurred vision,Medium
+66,Heart Disease,Female,fever,chills,sweating,Low
+63,Diabetes,Female,headache,nausea,light sensitivity,Medium
+56,None,Male,breathing difficulty,wheezing,chest tightness,High
+30,Asthma,Male,fever,stomach pain,weakness,High
+72,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Medium
+40,"Diabetes, Hypertension",Female,breathing difficulty,wheezing,chest tightness,Low
+7,None,Female,thirst,fatigue,frequent urination,High
+73,Diabetes,Female,fever,chills,sweating,Medium
+26,Asthma,Male,fever,chills,sweating,High
+40,None,Female,fever,chills,sweating,High
+22,"Diabetes, Hypertension",Female,high fever,joint pain,headache,High
+33,Asthma,Female,breathing difficulty,wheezing,chest tightness,Low
+83,Heart Disease,Male,fever,dry cough,loss of taste,Low
+29,None,Female,fever,body pain,cough,Medium
+58,None,Male,fever,body pain,cough,Medium
+40,Heart Disease,Male,fever,stomach pain,weakness,Medium
+41,Diabetes,Male,fever,chills,sweating,Medium
+30,None,Male,breathing difficulty,wheezing,chest tightness,Low
+46,Diabetes,Female,fever,chills,sweating,Low
+55,Hypertension,Male,thirst,fatigue,frequent urination,High
+47,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Medium
+75,Heart Disease,Female,fever,chills,sweating,Medium
+75,Hypertension,Male,fever,body pain,cough,Low
+29,None,Female,fever,chills,sweating,High
+52,None,Male,fever,chills,sweating,Low
+25,None,Female,fever,stomach pain,weakness,High
+11,None,Female,fever,body pain,cough,Low
+9,Hypertension,Male,cough,runny nose,sneezing,Medium
+7,None,Male,fever,dry cough,loss of taste,Medium
+10,Asthma,Male,thirst,fatigue,frequent urination,High
+36,None,Male,cough,runny nose,sneezing,Low
+67,Hypertension,Male,fever,stomach pain,weakness,Medium
+57,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+31,Hypertension,Female,headache,nausea,light sensitivity,Low
+37,None,Female,fever,dry cough,loss of taste,Low
+5,None,Male,headache,nausea,light sensitivity,Low
+81,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+25,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+78,None,Female,thirst,fatigue,frequent urination,Medium
+64,Asthma,Male,headache,nausea,light sensitivity,Medium
+25,Hypertension,Male,cough,runny nose,sneezing,Low
+4,None,Female,high fever,joint pain,headache,Low
+1,Hypertension,Male,fever,stomach pain,weakness,Low
+34,None,Male,cough,runny nose,sneezing,Medium
+34,Hypertension,Male,headache,nausea,light sensitivity,Low
+25,None,Female,fever,dry cough,loss of taste,High
+73,Hypertension,Female,fever,chills,sweating,Low
+19,None,Female,headache,dizziness,blurred vision,High
+72,Hypertension,Female,fever,chills,sweating,Low
+63,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,High
+75,Asthma,Male,cough,runny nose,sneezing,Medium
+77,Diabetes,Male,fever,dry cough,loss of taste,Medium
+42,None,Male,fever,chills,sweating,Low
+80,Asthma,Male,headache,dizziness,blurred vision,Medium
+7,None,Male,cough,runny nose,sneezing,Low
+47,Diabetes,Female,fever,stomach pain,weakness,Low
+62,Asthma,Female,fever,dry cough,loss of taste,Medium
+42,Diabetes,Male,cough,runny nose,sneezing,Medium
+41,Diabetes,Male,high fever,joint pain,headache,Medium
+33,None,Female,fever,chills,sweating,Medium
+72,Heart Disease,Male,high fever,joint pain,headache,High
+51,Asthma,Male,cough,runny nose,sneezing,Low
+17,None,Male,fever,body pain,cough,Medium
+18,None,Female,fever,chills,sweating,Low
+29,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+34,None,Male,fever,stomach pain,weakness,Medium
+22,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+71,None,Female,cough,runny nose,sneezing,Low
+7,None,Female,headache,nausea,light sensitivity,Low
+77,None,Male,headache,dizziness,blurred vision,Low
+10,None,Female,headache,dizziness,blurred vision,Medium
+86,None,Male,fever,dry cough,loss of taste,Low
+36,None,Male,thirst,fatigue,frequent urination,High
+55,None,Male,fever,body pain,cough,Medium
+88,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,High
+2,None,Male,fever,chills,sweating,Medium
+21,None,Female,fever,dry cough,loss of taste,High
+70,"Diabetes, Hypertension",Female,fever,chills,sweating,Low
+77,None,Female,thirst,fatigue,frequent urination,Medium
+49,None,Female,breathing difficulty,wheezing,chest tightness,Low
+46,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Low
+58,Diabetes,Female,fever,stomach pain,weakness,Medium
+81,None,Female,fever,body pain,cough,Low
+60,Heart Disease,Male,thirst,fatigue,frequent urination,High
+23,None,Male,fever,dry cough,loss of taste,High
+40,None,Female,headache,dizziness,blurred vision,Medium
+31,None,Female,headache,dizziness,blurred vision,Medium
+5,None,Male,high fever,joint pain,headache,High
+39,None,Female,cough,runny nose,sneezing,Low
+78,Hypertension,Male,headache,dizziness,blurred vision,Medium
+44,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Medium
+83,Hypertension,Male,thirst,fatigue,frequent urination,High
+64,Diabetes,Female,fever,dry cough,loss of taste,High
+59,None,Male,cough,runny nose,sneezing,Low
+88,None,Male,headache,dizziness,blurred vision,Medium
+29,None,Female,headache,nausea,light sensitivity,Low
+55,None,Female,high fever,joint pain,headache,High
+20,Asthma,Male,headache,nausea,light sensitivity,Medium
+29,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+19,Asthma,Female,fever,stomach pain,weakness,High
+1,None,Female,high fever,joint pain,headache,Low
+45,None,Female,fever,body pain,cough,Low
+72,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Low
+84,Heart Disease,Female,fever,stomach pain,weakness,Low
+19,Hypertension,Female,fever,chills,sweating,Low
+83,"Diabetes, Hypertension",Female,fever,chills,sweating,Medium
+73,Hypertension,Male,thirst,fatigue,frequent urination,High
+77,Asthma,Female,fever,dry cough,loss of taste,Medium
+86,Asthma,Female,thirst,fatigue,frequent urination,Medium
+59,None,Male,thirst,fatigue,frequent urination,High
+43,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Low
+45,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+46,"Diabetes, Hypertension",Female,fever,stomach pain,weakness,High
+63,Asthma,Female,fever,chills,sweating,Low
+81,Hypertension,Male,fever,stomach pain,weakness,Low
+45,Diabetes,Male,thirst,fatigue,frequent urination,Medium
+28,None,Male,fever,dry cough,loss of taste,High
+41,None,Female,fever,stomach pain,weakness,High
+62,Hypertension,Male,fever,chills,sweating,High
+24,None,Female,headache,dizziness,blurred vision,Low
+90,None,Female,thirst,fatigue,frequent urination,Medium
+49,Diabetes,Male,headache,dizziness,blurred vision,Low
+34,Hypertension,Female,headache,dizziness,blurred vision,Medium
+34,None,Female,high fever,joint pain,headache,Medium
+64,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+59,Asthma,Female,thirst,fatigue,frequent urination,High
+38,Hypertension,Male,fever,body pain,cough,Low
+23,Hypertension,Female,headache,nausea,light sensitivity,Medium
+32,None,Female,fever,chills,sweating,Medium
+75,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,High
+74,Diabetes,Female,cough,runny nose,sneezing,Medium
+90,None,Male,fever,chills,sweating,Low
+81,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,Low
+29,Asthma,Female,thirst,fatigue,frequent urination,Low
+53,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+63,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Medium
+60,Diabetes,Male,headache,dizziness,blurred vision,Medium
+83,Hypertension,Female,cough,runny nose,sneezing,Low
+24,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,Medium
+23,None,Female,fever,dry cough,loss of taste,Medium
+19,Diabetes,Female,headache,dizziness,blurred vision,Low
+35,None,Male,thirst,fatigue,frequent urination,Low
+4,Asthma,Male,headache,dizziness,blurred vision,Low
+47,Diabetes,Female,fever,dry cough,loss of taste,Medium
+18,Asthma,Male,thirst,fatigue,frequent urination,Low
+48,Heart Disease,Male,headache,dizziness,blurred vision,High
+78,None,Male,fever,stomach pain,weakness,High
+56,None,Male,fever,body pain,cough,Medium
+84,Heart Disease,Female,headache,nausea,light sensitivity,Medium
+74,Diabetes,Female,cough,runny nose,sneezing,Medium
+83,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+68,Hypertension,Male,fever,body pain,cough,Medium
+75,None,Female,headache,dizziness,blurred vision,High
+83,"Diabetes, Hypertension",Male,high fever,joint pain,headache,Low
+89,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+82,None,Female,breathing difficulty,wheezing,chest tightness,High
+58,None,Male,high fever,joint pain,headache,Medium
+69,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,Low
+35,None,Male,thirst,fatigue,frequent urination,Medium
+18,None,Male,headache,nausea,light sensitivity,Medium
+66,Hypertension,Female,headache,nausea,light sensitivity,Low
+43,None,Male,breathing difficulty,wheezing,chest tightness,High
+38,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Low
+51,Diabetes,Female,high fever,joint pain,headache,Medium
+43,Hypertension,Female,fever,stomach pain,weakness,Medium
+90,Diabetes,Female,high fever,joint pain,headache,Low
+76,Diabetes,Male,headache,nausea,light sensitivity,Low
+71,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+89,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Low
+44,None,Male,cough,runny nose,sneezing,Low
+49,None,Female,fever,dry cough,loss of taste,High
+52,Diabetes,Male,headache,nausea,light sensitivity,Medium
+14,None,Male,fever,stomach pain,weakness,Low
+3,Asthma,Female,fever,stomach pain,weakness,Low
+40,Hypertension,Female,fever,dry cough,loss of taste,High
+88,Diabetes,Female,fever,chills,sweating,High
+18,Heart Disease,Male,fever,dry cough,loss of taste,Low
+78,Hypertension,Female,headache,dizziness,blurred vision,Medium
+16,Asthma,Female,cough,runny nose,sneezing,Low
+47,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+26,None,Female,breathing difficulty,wheezing,chest tightness,High
+10,None,Female,breathing difficulty,wheezing,chest tightness,Low
+31,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,Medium
+42,Hypertension,Male,headache,dizziness,blurred vision,Medium
+54,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+77,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Medium
+19,Heart Disease,Male,thirst,fatigue,frequent urination,Low
+46,None,Female,cough,runny nose,sneezing,Low
+23,None,Female,thirst,fatigue,frequent urination,Medium
+26,None,Male,high fever,joint pain,headache,High
+29,None,Female,fever,chills,sweating,High
+66,Diabetes,Male,high fever,joint pain,headache,High
+45,None,Female,headache,nausea,light sensitivity,Medium
+53,Hypertension,Female,high fever,joint pain,headache,Low
+73,Diabetes,Male,fever,dry cough,loss of taste,Low
+30,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+36,Asthma,Male,thirst,fatigue,frequent urination,Low
+9,None,Male,fever,chills,sweating,High
+90,"Diabetes, Hypertension",Male,fever,chills,sweating,High
+32,None,Female,high fever,joint pain,headache,Low
+13,None,Male,high fever,joint pain,headache,Low
+45,None,Female,headache,dizziness,blurred vision,High
+24,None,Female,fever,stomach pain,weakness,High
+68,Hypertension,Female,fever,chills,sweating,High
+60,None,Male,fever,chills,sweating,Medium
+89,Diabetes,Male,high fever,joint pain,headache,Medium
+81,None,Female,high fever,joint pain,headache,Medium
+38,Diabetes,Male,fever,body pain,cough,Medium
+89,None,Female,headache,dizziness,blurred vision,High
+71,Heart Disease,Female,headache,nausea,light sensitivity,Low
+43,None,Female,fever,stomach pain,weakness,Low
+11,None,Female,headache,nausea,light sensitivity,Low
+69,Asthma,Male,fever,stomach pain,weakness,High
+49,Diabetes,Male,headache,dizziness,blurred vision,Low
+57,Hypertension,Female,fever,chills,sweating,High
+22,None,Male,headache,dizziness,blurred vision,Low
+52,None,Female,headache,nausea,light sensitivity,Low
+50,None,Male,headache,dizziness,blurred vision,Medium
+72,Asthma,Male,thirst,fatigue,frequent urination,Medium
+60,None,Female,fever,chills,sweating,Low
+21,None,Male,high fever,joint pain,headache,Medium
+27,Diabetes,Female,fever,stomach pain,weakness,High
+1,None,Female,cough,runny nose,sneezing,Low
+42,None,Female,thirst,fatigue,frequent urination,Low
+87,None,Female,fever,stomach pain,weakness,Low
+41,None,Male,fever,dry cough,loss of taste,High
+89,Asthma,Female,thirst,fatigue,frequent urination,High
+33,None,Male,thirst,fatigue,frequent urination,Low
+68,Diabetes,Male,fever,stomach pain,weakness,Medium
+81,Diabetes,Female,cough,runny nose,sneezing,Low
+41,None,Male,high fever,joint pain,headache,High
+76,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+76,Heart Disease,Female,fever,body pain,cough,Low
+57,Heart Disease,Female,fever,chills,sweating,Low
+36,Diabetes,Female,fever,body pain,cough,Medium
+12,None,Female,fever,stomach pain,weakness,High
+21,None,Female,fever,body pain,cough,Low
+32,None,Female,fever,stomach pain,weakness,Low
+85,Hypertension,Female,cough,runny nose,sneezing,Low
+81,None,Female,high fever,joint pain,headache,Medium
+47,None,Female,high fever,joint pain,headache,High
+46,Hypertension,Male,headache,dizziness,blurred vision,High
+84,Heart Disease,Female,headache,nausea,light sensitivity,Medium
+89,Asthma,Female,breathing difficulty,wheezing,chest tightness,Low
+80,Hypertension,Female,headache,nausea,light sensitivity,Low
+61,"Diabetes, Hypertension",Male,thirst,fatigue,frequent urination,Low
+9,None,Female,high fever,joint pain,headache,Low
+37,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Low
+7,None,Male,headache,nausea,light sensitivity,Low
+19,"Diabetes, Hypertension",Female,fever,chills,sweating,High
+12,None,Female,fever,chills,sweating,High
+19,Asthma,Male,breathing difficulty,wheezing,chest tightness,Low
+71,Diabetes,Female,headache,nausea,light sensitivity,Low
+28,Hypertension,Male,fever,stomach pain,weakness,Low
+47,None,Female,fever,dry cough,loss of taste,High
+24,None,Female,fever,stomach pain,weakness,High
+75,Asthma,Female,fever,stomach pain,weakness,Medium
+29,Diabetes,Female,headache,dizziness,blurred vision,Low
+68,Hypertension,Female,fever,stomach pain,weakness,Medium
+29,Hypertension,Male,thirst,fatigue,frequent urination,Low
+57,Hypertension,Male,high fever,joint pain,headache,High
+25,None,Female,headache,dizziness,blurred vision,High
+8,None,Female,fever,body pain,cough,Medium
+35,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+44,None,Female,fever,chills,sweating,High
+23,Diabetes,Female,cough,runny nose,sneezing,Medium
+13,None,Female,fever,stomach pain,weakness,Low
+5,Asthma,Female,breathing difficulty,wheezing,chest tightness,High
+23,None,Male,fever,stomach pain,weakness,Medium
+32,Asthma,Female,fever,body pain,cough,Medium
+20,None,Male,high fever,joint pain,headache,Low
+83,"Diabetes, Hypertension",Female,fever,dry cough,loss of taste,High
+57,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Low
+8,None,Male,cough,runny nose,sneezing,Low
+12,None,Male,breathing difficulty,wheezing,chest tightness,High
+78,Hypertension,Male,headache,dizziness,blurred vision,Low
+48,Hypertension,Male,headache,dizziness,blurred vision,Medium
+13,None,Female,fever,stomach pain,weakness,Medium
+32,None,Female,cough,runny nose,sneezing,Medium
+81,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+49,"Diabetes, Hypertension",Female,fever,body pain,cough,Low
+57,None,Female,fever,stomach pain,weakness,High
+86,Hypertension,Male,fever,body pain,cough,Medium
+16,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+39,None,Female,thirst,fatigue,frequent urination,Low
+68,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+49,None,Female,fever,dry cough,loss of taste,High
+40,Hypertension,Female,high fever,joint pain,headache,High
+34,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+68,None,Male,fever,dry cough,loss of taste,Medium
+42,None,Male,fever,dry cough,loss of taste,High
+63,Hypertension,Female,fever,stomach pain,weakness,High
+20,None,Female,fever,stomach pain,weakness,Low
+80,None,Female,high fever,joint pain,headache,Low
+58,None,Male,headache,dizziness,blurred vision,High
+82,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,High
+38,None,Male,high fever,joint pain,headache,Low
+70,Heart Disease,Female,headache,dizziness,blurred vision,High
+73,Asthma,Male,fever,body pain,cough,Low
+89,None,Male,high fever,joint pain,headache,High
+42,Asthma,Male,fever,dry cough,loss of taste,High
+56,None,Male,cough,runny nose,sneezing,Medium
+83,Hypertension,Male,headache,dizziness,blurred vision,High
+7,None,Male,fever,body pain,cough,Low
+72,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+42,"Diabetes, Hypertension",Male,fever,body pain,cough,Medium
+72,Hypertension,Male,fever,dry cough,loss of taste,High
+49,None,Female,fever,chills,sweating,High
+47,None,Female,thirst,fatigue,frequent urination,Medium
+66,Diabetes,Male,fever,dry cough,loss of taste,High
+31,None,Male,thirst,fatigue,frequent urination,High
+53,None,Female,fever,chills,sweating,Low
+37,None,Male,high fever,joint pain,headache,Low
+64,Hypertension,Male,high fever,joint pain,headache,Medium
+9,None,Female,fever,dry cough,loss of taste,Low
+73,Hypertension,Female,fever,chills,sweating,Low
+66,None,Male,fever,chills,sweating,High
+55,Asthma,Female,fever,stomach pain,weakness,High
+14,None,Male,breathing difficulty,wheezing,chest tightness,Low
+79,None,Male,fever,stomach pain,weakness,High
+83,None,Female,thirst,fatigue,frequent urination,Low
+89,Hypertension,Male,thirst,fatigue,frequent urination,Low
+65,Asthma,Female,fever,stomach pain,weakness,Low
+52,None,Female,fever,stomach pain,weakness,High
+18,Diabetes,Male,headache,dizziness,blurred vision,High
+25,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Medium
+80,Heart Disease,Female,fever,stomach pain,weakness,High
+37,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,Low
+39,None,Female,thirst,fatigue,frequent urination,Low
+89,Heart Disease,Female,thirst,fatigue,frequent urination,Medium
+2,None,Male,fever,body pain,cough,Low
+57,"Diabetes, Hypertension",Male,headache,nausea,light sensitivity,Medium
+65,Hypertension,Male,fever,stomach pain,weakness,Low
+28,None,Female,high fever,joint pain,headache,Low
+47,None,Female,cough,runny nose,sneezing,Medium
+85,Diabetes,Male,headache,nausea,light sensitivity,Low
+18,None,Male,cough,runny nose,sneezing,Medium
+5,None,Female,fever,chills,sweating,High
+75,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Medium
+57,Heart Disease,Female,fever,chills,sweating,Low
+88,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+30,None,Male,cough,runny nose,sneezing,Low
+53,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+64,Diabetes,Male,thirst,fatigue,frequent urination,Medium
+53,Hypertension,Male,headache,nausea,light sensitivity,Medium
+25,Asthma,Male,headache,dizziness,blurred vision,High
+65,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+73,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+3,None,Male,fever,stomach pain,weakness,Low
+49,Heart Disease,Male,fever,stomach pain,weakness,Low
+13,None,Male,breathing difficulty,wheezing,chest tightness,High
+60,Hypertension,Female,fever,chills,sweating,Medium
+79,Heart Disease,Female,high fever,joint pain,headache,Low
+22,None,Female,fever,dry cough,loss of taste,Medium
+20,None,Male,thirst,fatigue,frequent urination,Low
+87,Heart Disease,Female,thirst,fatigue,frequent urination,High
+9,None,Female,headache,nausea,light sensitivity,Medium
+49,Asthma,Female,fever,chills,sweating,Low
+14,Diabetes,Male,fever,body pain,cough,Low
+76,None,Female,thirst,fatigue,frequent urination,Medium
+10,None,Female,fever,dry cough,loss of taste,High
+30,Asthma,Male,high fever,joint pain,headache,High
+12,None,Male,fever,dry cough,loss of taste,Medium
+35,None,Male,fever,chills,sweating,Low
+25,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+68,Heart Disease,Male,fever,chills,sweating,Medium
+57,Diabetes,Female,fever,dry cough,loss of taste,Medium
+3,None,Male,headache,nausea,light sensitivity,Medium
+85,None,Male,fever,body pain,cough,Low
+23,None,Female,cough,runny nose,sneezing,Low
+61,None,Male,high fever,joint pain,headache,Medium
+64,Hypertension,Male,cough,runny nose,sneezing,Low
+64,Asthma,Male,thirst,fatigue,frequent urination,Low
+78,Diabetes,Male,thirst,fatigue,frequent urination,Low
+23,None,Female,thirst,fatigue,frequent urination,Low
+5,None,Female,headache,dizziness,blurred vision,Medium
+89,Hypertension,Male,headache,nausea,light sensitivity,Medium
+75,Hypertension,Female,fever,chills,sweating,Medium
+10,None,Male,fever,chills,sweating,Medium
+35,None,Female,cough,runny nose,sneezing,Medium
+27,None,Female,high fever,joint pain,headache,Medium
+58,Hypertension,Male,thirst,fatigue,frequent urination,High
+78,None,Female,fever,dry cough,loss of taste,Medium
+68,Diabetes,Male,high fever,joint pain,headache,High
+31,Diabetes,Female,high fever,joint pain,headache,High
+64,Hypertension,Male,cough,runny nose,sneezing,Low
+39,None,Female,fever,body pain,cough,Medium
+88,Asthma,Male,fever,body pain,cough,Medium
+24,Hypertension,Male,fever,stomach pain,weakness,Low
+51,None,Female,fever,chills,sweating,Low
+14,None,Female,fever,chills,sweating,Medium
+25,Heart Disease,Male,cough,runny nose,sneezing,Medium
+50,Asthma,Female,headache,nausea,light sensitivity,Low
+3,None,Female,fever,body pain,cough,Medium
+16,Diabetes,Male,headache,nausea,light sensitivity,Medium
+36,Hypertension,Male,fever,dry cough,loss of taste,High
+35,None,Male,fever,stomach pain,weakness,Medium
+2,None,Female,thirst,fatigue,frequent urination,Medium
+90,Hypertension,Male,high fever,joint pain,headache,Low
+75,Heart Disease,Male,fever,chills,sweating,High
+32,"Diabetes, Hypertension",Female,headache,dizziness,blurred vision,High
+73,Asthma,Male,thirst,fatigue,frequent urination,Low
+31,None,Female,cough,runny nose,sneezing,Medium
+85,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+85,Heart Disease,Male,fever,chills,sweating,Medium
+83,Diabetes,Female,high fever,joint pain,headache,Low
+22,None,Female,headache,dizziness,blurred vision,Medium
+22,None,Male,headache,nausea,light sensitivity,Low
+45,Diabetes,Male,cough,runny nose,sneezing,Low
+15,None,Male,fever,stomach pain,weakness,High
+75,Hypertension,Female,fever,chills,sweating,High
+53,Diabetes,Female,fever,dry cough,loss of taste,Low
+31,None,Male,high fever,joint pain,headache,Low
+65,Hypertension,Male,thirst,fatigue,frequent urination,Low
+7,None,Male,headache,dizziness,blurred vision,High
+31,Diabetes,Male,high fever,joint pain,headache,Medium
+34,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+10,None,Male,fever,chills,sweating,High
+72,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+67,Diabetes,Female,fever,dry cough,loss of taste,High
+34,None,Female,fever,chills,sweating,High
+65,Asthma,Female,fever,dry cough,loss of taste,Medium
+86,"Diabetes, Hypertension",Male,headache,dizziness,blurred vision,Low
+65,Hypertension,Male,headache,dizziness,blurred vision,High
+32,None,Male,fever,body pain,cough,Medium
+22,Diabetes,Male,headache,dizziness,blurred vision,High
+9,None,Male,thirst,fatigue,frequent urination,Low
+55,None,Female,fever,chills,sweating,High
+28,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Low
+79,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+35,None,Male,headache,dizziness,blurred vision,Medium
+23,None,Female,fever,stomach pain,weakness,Medium
+47,"Diabetes, Hypertension",Male,fever,body pain,cough,Medium
+11,None,Female,headache,nausea,light sensitivity,Low
+81,None,Female,fever,stomach pain,weakness,Medium
+28,None,Male,fever,chills,sweating,High
+61,Hypertension,Female,fever,stomach pain,weakness,Medium
+43,None,Female,breathing difficulty,wheezing,chest tightness,High
+42,None,Male,headache,nausea,light sensitivity,Low
+28,None,Male,high fever,joint pain,headache,Medium
+50,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+69,Asthma,Male,fever,stomach pain,weakness,High
+63,Diabetes,Male,fever,chills,sweating,High
+53,None,Female,high fever,joint pain,headache,High
+16,None,Male,fever,dry cough,loss of taste,Medium
+33,None,Female,fever,chills,sweating,Medium
+4,None,Male,high fever,joint pain,headache,High
+80,None,Female,thirst,fatigue,frequent urination,Low
+9,Asthma,Female,headache,nausea,light sensitivity,Low
+47,None,Female,fever,dry cough,loss of taste,High
+34,Hypertension,Male,fever,chills,sweating,Low
+69,None,Male,high fever,joint pain,headache,Medium
+63,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+13,None,Female,fever,chills,sweating,Medium
+31,None,Female,cough,runny nose,sneezing,Low
+41,Asthma,Male,headache,dizziness,blurred vision,High
+82,None,Female,breathing difficulty,wheezing,chest tightness,High
+30,None,Female,thirst,fatigue,frequent urination,High
+35,None,Female,fever,chills,sweating,Low
+62,"Diabetes, Hypertension",Male,breathing difficulty,wheezing,chest tightness,High
+30,Diabetes,Male,headache,dizziness,blurred vision,High
+70,Heart Disease,Female,headache,dizziness,blurred vision,High
+44,None,Male,headache,nausea,light sensitivity,Medium
+51,None,Male,breathing difficulty,wheezing,chest tightness,High
+28,None,Male,thirst,fatigue,frequent urination,Low
+60,Diabetes,Male,headache,dizziness,blurred vision,Medium
+64,Asthma,Male,fever,chills,sweating,Low
+28,Heart Disease,Female,breathing difficulty,wheezing,chest tightness,Low
+34,None,Female,thirst,fatigue,frequent urination,Low
+72,None,Male,fever,stomach pain,weakness,Low
+29,None,Female,cough,runny nose,sneezing,Medium
+45,Asthma,Male,cough,runny nose,sneezing,Low
+79,Hypertension,Male,fever,dry cough,loss of taste,Low
+7,None,Male,fever,chills,sweating,High
+76,Diabetes,Male,high fever,joint pain,headache,Medium
+34,None,Female,fever,stomach pain,weakness,Medium
+73,Asthma,Female,fever,dry cough,loss of taste,Medium
+2,Asthma,Female,fever,chills,sweating,Low
+82,Diabetes,Male,fever,dry cough,loss of taste,Low
+23,None,Male,headache,nausea,light sensitivity,Medium
+8,None,Female,fever,body pain,cough,Medium
+23,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+5,Asthma,Female,fever,body pain,cough,Low
+46,Diabetes,Male,headache,dizziness,blurred vision,High
+73,Diabetes,Female,fever,body pain,cough,Medium
+73,Diabetes,Female,fever,dry cough,loss of taste,Low
+9,None,Female,fever,stomach pain,weakness,Medium
+38,None,Female,high fever,joint pain,headache,Low
+76,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+49,None,Male,fever,chills,sweating,Medium
+39,None,Female,high fever,joint pain,headache,Low
+86,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+55,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Low
+26,Asthma,Male,fever,body pain,cough,Medium
+33,None,Female,fever,stomach pain,weakness,Medium
+31,None,Female,high fever,joint pain,headache,Low
+39,Asthma,Male,thirst,fatigue,frequent urination,Low
+24,Hypertension,Male,headache,dizziness,blurred vision,Medium
+1,None,Male,high fever,joint pain,headache,Medium
+29,None,Female,headache,nausea,light sensitivity,Low
+25,Diabetes,Female,high fever,joint pain,headache,High
+17,Diabetes,Female,fever,dry cough,loss of taste,High
+23,None,Male,fever,body pain,cough,Medium
+30,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Low
+89,Heart Disease,Male,high fever,joint pain,headache,High
+48,Diabetes,Male,high fever,joint pain,headache,Medium
+22,Diabetes,Male,headache,dizziness,blurred vision,Medium
+18,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+51,None,Female,high fever,joint pain,headache,Low
+82,None,Female,fever,body pain,cough,Low
+65,Hypertension,Male,thirst,fatigue,frequent urination,Low
+84,Hypertension,Male,fever,chills,sweating,High
+8,None,Female,fever,body pain,cough,Medium
+65,Diabetes,Male,headache,dizziness,blurred vision,Low
+36,None,Male,fever,body pain,cough,Low
+22,None,Female,fever,dry cough,loss of taste,Low
+18,None,Female,fever,chills,sweating,Medium
+25,None,Male,headache,dizziness,blurred vision,Low
+60,Diabetes,Male,headache,dizziness,blurred vision,Medium
+88,Asthma,Male,fever,body pain,cough,Medium
+20,None,Male,thirst,fatigue,frequent urination,Low
+79,Diabetes,Male,high fever,joint pain,headache,High
+77,Diabetes,Male,fever,dry cough,loss of taste,Medium
+79,None,Female,headache,dizziness,blurred vision,High
+34,None,Male,fever,chills,sweating,Medium
+24,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+77,None,Female,thirst,fatigue,frequent urination,Low
+61,None,Male,fever,stomach pain,weakness,High
+69,Diabetes,Male,thirst,fatigue,frequent urination,High
+37,None,Male,high fever,joint pain,headache,Medium
+51,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Medium
+15,None,Male,fever,stomach pain,weakness,Medium
+73,Diabetes,Male,headache,dizziness,blurred vision,High
+46,Hypertension,Female,headache,dizziness,blurred vision,High
+8,None,Male,fever,body pain,cough,Medium
+25,None,Male,breathing difficulty,wheezing,chest tightness,High
+15,None,Female,fever,body pain,cough,Medium
+74,None,Male,thirst,fatigue,frequent urination,High
+66,Hypertension,Female,fever,dry cough,loss of taste,High
+53,Hypertension,Male,fever,stomach pain,weakness,Medium
+17,None,Male,fever,chills,sweating,Medium
+26,None,Female,fever,body pain,cough,Low
+75,Hypertension,Female,fever,chills,sweating,Low
+25,Hypertension,Male,cough,runny nose,sneezing,Low
+44,Asthma,Male,fever,stomach pain,weakness,High
+60,Diabetes,Male,fever,stomach pain,weakness,High
+83,Hypertension,Male,fever,chills,sweating,Low
+71,None,Female,headache,dizziness,blurred vision,Low
+2,None,Male,headache,nausea,light sensitivity,Medium
+39,None,Female,cough,runny nose,sneezing,Low
+47,Hypertension,Female,headache,dizziness,blurred vision,Medium
+40,None,Male,headache,dizziness,blurred vision,Medium
+60,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Medium
+11,None,Male,headache,dizziness,blurred vision,Low
+39,None,Male,headache,dizziness,blurred vision,High
+57,None,Female,thirst,fatigue,frequent urination,Medium
+88,Diabetes,Male,fever,dry cough,loss of taste,Low
+76,None,Female,breathing difficulty,wheezing,chest tightness,Low
+86,Heart Disease,Female,fever,chills,sweating,Low
+74,Diabetes,Female,thirst,fatigue,frequent urination,Low
+83,Asthma,Female,cough,runny nose,sneezing,Medium
+38,Hypertension,Female,thirst,fatigue,frequent urination,High
+56,Diabetes,Female,high fever,joint pain,headache,Medium
+64,Diabetes,Female,headache,dizziness,blurred vision,Low
+56,Hypertension,Male,headache,dizziness,blurred vision,Low
+30,None,Male,headache,dizziness,blurred vision,Medium
+51,None,Male,fever,chills,sweating,High
+8,None,Male,fever,body pain,cough,Medium
+82,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+81,Asthma,Male,cough,runny nose,sneezing,Medium
+26,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Low
+69,Diabetes,Male,high fever,joint pain,headache,Medium
+79,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,High
+72,Hypertension,Male,fever,stomach pain,weakness,High
+10,None,Male,high fever,joint pain,headache,High
+13,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+61,None,Male,headache,nausea,light sensitivity,Medium
+77,Hypertension,Female,thirst,fatigue,frequent urination,High
+3,None,Female,cough,runny nose,sneezing,Low
+83,Hypertension,Male,thirst,fatigue,frequent urination,High
+19,Heart Disease,Male,thirst,fatigue,frequent urination,Low
+36,None,Female,thirst,fatigue,frequent urination,High
+69,Diabetes,Female,fever,stomach pain,weakness,Low
+52,None,Male,thirst,fatigue,frequent urination,Low
+78,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+20,Asthma,Female,fever,chills,sweating,High
+47,Diabetes,Male,thirst,fatigue,frequent urination,Low
+31,None,Male,headache,nausea,light sensitivity,Medium
+40,Hypertension,Female,cough,runny nose,sneezing,Medium
+23,None,Male,fever,dry cough,loss of taste,High
+47,Diabetes,Female,headache,dizziness,blurred vision,Low
+36,None,Female,fever,stomach pain,weakness,High
+43,None,Female,fever,dry cough,loss of taste,Medium
+82,None,Female,breathing difficulty,wheezing,chest tightness,High
+19,None,Male,headache,nausea,light sensitivity,Medium
+67,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+57,Heart Disease,Male,fever,chills,sweating,Medium
+13,Diabetes,Male,thirst,fatigue,frequent urination,High
+78,None,Male,fever,stomach pain,weakness,High
+54,Hypertension,Male,headache,nausea,light sensitivity,Low
+85,Hypertension,Male,fever,stomach pain,weakness,Low
+7,None,Male,fever,stomach pain,weakness,Medium
+72,Heart Disease,Female,fever,body pain,cough,Low
+40,Hypertension,Male,headache,nausea,light sensitivity,Low
+81,Heart Disease,Female,fever,dry cough,loss of taste,High
+3,Diabetes,Male,fever,body pain,cough,Medium
+19,Diabetes,Female,headache,dizziness,blurred vision,Low
+16,None,Male,fever,stomach pain,weakness,High
+12,None,Male,fever,dry cough,loss of taste,Medium
+57,None,Female,thirst,fatigue,frequent urination,Medium
+69,Asthma,Male,cough,runny nose,sneezing,Medium
+38,None,Female,high fever,joint pain,headache,Low
+53,None,Female,fever,chills,sweating,Medium
+63,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Medium
+55,Asthma,Male,headache,dizziness,blurred vision,High
+25,Hypertension,Female,fever,stomach pain,weakness,Medium
+86,Hypertension,Male,fever,chills,sweating,Low
+40,None,Male,high fever,joint pain,headache,High
+23,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+43,Hypertension,Female,headache,dizziness,blurred vision,High
+19,Hypertension,Female,fever,dry cough,loss of taste,High
+4,None,Male,fever,chills,sweating,Medium
+58,Hypertension,Female,headache,dizziness,blurred vision,Medium
+51,None,Female,fever,dry cough,loss of taste,Low
+70,Asthma,Female,breathing difficulty,wheezing,chest tightness,Medium
+75,None,Male,high fever,joint pain,headache,Low
+47,Diabetes,Female,high fever,joint pain,headache,Low
+60,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+82,Heart Disease,Female,fever,stomach pain,weakness,High
+24,None,Female,fever,chills,sweating,Low
+75,None,Male,thirst,fatigue,frequent urination,Low
+22,Asthma,Female,fever,dry cough,loss of taste,Medium
+20,None,Male,high fever,joint pain,headache,High
+14,None,Male,fever,stomach pain,weakness,Medium
+55,Asthma,Female,fever,stomach pain,weakness,High
+16,None,Female,fever,chills,sweating,High
+41,None,Male,fever,dry cough,loss of taste,High
+43,Hypertension,Male,headache,dizziness,blurred vision,Low
+22,None,Female,fever,chills,sweating,High
+85,Diabetes,Male,headache,dizziness,blurred vision,Low
+58,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+44,"Diabetes, Hypertension",Male,fever,body pain,cough,Medium
+73,Diabetes,Male,fever,stomach pain,weakness,Low
+7,None,Male,fever,stomach pain,weakness,Medium
+27,None,Female,high fever,joint pain,headache,Medium
+21,None,Female,thirst,fatigue,frequent urination,Medium
+87,None,Female,fever,stomach pain,weakness,Low
+1,Asthma,Female,thirst,fatigue,frequent urination,Medium
+37,Diabetes,Male,headache,dizziness,blurred vision,Low
+45,"Diabetes, Hypertension",Male,high fever,joint pain,headache,Medium
+36,None,Male,fever,stomach pain,weakness,High
+37,Asthma,Male,fever,chills,sweating,Low
+37,Asthma,Female,thirst,fatigue,frequent urination,Medium
+37,Asthma,Male,fever,chills,sweating,Low
+76,"Diabetes, Hypertension",Female,fever,stomach pain,weakness,High
+8,Asthma,Female,high fever,joint pain,headache,Low
+20,Asthma,Male,fever,body pain,cough,Low
+28,Asthma,Male,fever,dry cough,loss of taste,High
+14,Asthma,Female,headache,nausea,light sensitivity,Low
+69,Diabetes,Male,thirst,fatigue,frequent urination,High
+76,Asthma,Female,headache,nausea,light sensitivity,Medium
+82,Hypertension,Female,thirst,fatigue,frequent urination,Low
+54,None,Female,fever,body pain,cough,Medium
+83,"Diabetes, Hypertension",Male,high fever,joint pain,headache,Low
+79,"Diabetes, Hypertension",Female,headache,dizziness,blurred vision,Low
+63,None,Male,fever,stomach pain,weakness,Medium
+24,None,Male,fever,dry cough,loss of taste,Medium
+89,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+34,None,Female,fever,body pain,cough,Medium
+26,None,Female,thirst,fatigue,frequent urination,Low
+26,None,Male,fever,chills,sweating,High
+82,Diabetes,Female,headache,dizziness,blurred vision,High
+20,Asthma,Male,fever,body pain,cough,Low
+76,None,Male,fever,body pain,cough,Low
+65,Diabetes,Female,high fever,joint pain,headache,Medium
+33,None,Female,fever,chills,sweating,Medium
+36,Heart Disease,Male,fever,stomach pain,weakness,High
+27,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Medium
+31,None,Female,headache,dizziness,blurred vision,Medium
+62,None,Male,fever,chills,sweating,High
+26,None,Male,fever,chills,sweating,Medium
+22,None,Female,thirst,fatigue,frequent urination,Medium
+44,Diabetes,Female,high fever,joint pain,headache,Low
+56,None,Female,cough,runny nose,sneezing,Medium
+70,None,Female,fever,chills,sweating,Low
+1,None,Female,headache,nausea,light sensitivity,Medium
+25,None,Male,fever,chills,sweating,High
+33,Hypertension,Female,high fever,joint pain,headache,High
+89,Hypertension,Male,headache,nausea,light sensitivity,Medium
+6,None,Female,breathing difficulty,wheezing,chest tightness,Low
+3,Hypertension,Female,headache,nausea,light sensitivity,Low
+70,None,Male,fever,dry cough,loss of taste,Medium
+52,None,Male,breathing difficulty,wheezing,chest tightness,Low
+59,Hypertension,Female,fever,dry cough,loss of taste,Medium
+69,Asthma,Female,high fever,joint pain,headache,High
+27,None,Female,cough,runny nose,sneezing,Low
+35,None,Female,breathing difficulty,wheezing,chest tightness,High
+35,None,Male,fever,stomach pain,weakness,Low
+71,Diabetes,Female,fever,dry cough,loss of taste,High
+17,None,Male,fever,dry cough,loss of taste,High
+78,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+81,Hypertension,Female,headache,nausea,light sensitivity,Low
+61,None,Male,fever,stomach pain,weakness,High
+56,None,Female,cough,runny nose,sneezing,Medium
+90,Heart Disease,Male,fever,body pain,cough,Medium
+79,Hypertension,Male,breathing difficulty,wheezing,chest tightness,High
+80,Asthma,Male,high fever,joint pain,headache,Medium
+16,Asthma,Female,cough,runny nose,sneezing,Low
+21,None,Male,fever,dry cough,loss of taste,Low
+53,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+63,Hypertension,Female,high fever,joint pain,headache,Low
+23,None,Male,high fever,joint pain,headache,High
+49,Diabetes,Male,headache,dizziness,blurred vision,High
+86,Hypertension,Male,fever,body pain,cough,Medium
+77,Hypertension,Female,thirst,fatigue,frequent urination,High
+15,None,Female,fever,chills,sweating,Low
+87,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+85,"Diabetes, Hypertension",Male,high fever,joint pain,headache,Medium
+29,None,Male,fever,body pain,cough,Low
+65,Diabetes,Male,fever,chills,sweating,Low
+1,None,Female,breathing difficulty,wheezing,chest tightness,Low
+57,Asthma,Female,high fever,joint pain,headache,Medium
+77,Asthma,Female,fever,stomach pain,weakness,Medium
+49,None,Female,fever,stomach pain,weakness,High
+26,None,Male,headache,nausea,light sensitivity,Low
+1,None,Female,high fever,joint pain,headache,Low
+21,None,Male,fever,dry cough,loss of taste,Medium
+5,None,Female,cough,runny nose,sneezing,Medium
+61,Hypertension,Female,thirst,fatigue,frequent urination,High
+18,None,Male,fever,stomach pain,weakness,High
+41,None,Female,fever,stomach pain,weakness,High
+49,Asthma,Female,fever,stomach pain,weakness,High
+36,Hypertension,Male,high fever,joint pain,headache,Low
+43,Heart Disease,Male,cough,runny nose,sneezing,Low
+78,None,Female,fever,stomach pain,weakness,Low
+84,Hypertension,Female,fever,body pain,cough,Medium
+28,None,Male,high fever,joint pain,headache,Medium
+19,None,Male,high fever,joint pain,headache,High
+9,None,Male,fever,stomach pain,weakness,Medium
+71,None,Male,headache,dizziness,blurred vision,Low
+10,None,Male,thirst,fatigue,frequent urination,High
+16,None,Male,fever,stomach pain,weakness,Low
+79,"Diabetes, Hypertension",Male,thirst,fatigue,frequent urination,High
+21,None,Male,breathing difficulty,wheezing,chest tightness,Low
+27,None,Female,fever,dry cough,loss of taste,Low
+68,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Low
+71,None,Male,high fever,joint pain,headache,Low
+23,None,Female,headache,dizziness,blurred vision,Medium
+18,Asthma,Female,fever,dry cough,loss of taste,Medium
+86,Diabetes,Male,high fever,joint pain,headache,High
+45,None,Male,breathing difficulty,wheezing,chest tightness,High
+73,Diabetes,Female,fever,stomach pain,weakness,Medium
+68,Hypertension,Male,fever,body pain,cough,Medium
+54,None,Male,headache,dizziness,blurred vision,Medium
+74,Heart Disease,Female,fever,chills,sweating,Medium
+64,None,Female,cough,runny nose,sneezing,Low
+19,None,Male,breathing difficulty,wheezing,chest tightness,High
+85,"Diabetes, Hypertension",Female,fever,chills,sweating,High
+38,None,Male,fever,dry cough,loss of taste,High
+64,Diabetes,Female,high fever,joint pain,headache,Medium
+63,None,Male,fever,body pain,cough,Low
+5,None,Male,thirst,fatigue,frequent urination,Medium
+53,"Diabetes, Hypertension",Female,breathing difficulty,wheezing,chest tightness,Medium
+5,"Diabetes, Hypertension",Female,headache,nausea,light sensitivity,Medium
+19,None,Female,headache,dizziness,blurred vision,Low
+13,None,Male,high fever,joint pain,headache,High
+19,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+84,None,Female,breathing difficulty,wheezing,chest tightness,Low
+28,None,Male,headache,nausea,light sensitivity,Medium
+1,None,Male,cough,runny nose,sneezing,Medium
+38,None,Male,fever,body pain,cough,Medium
+49,None,Female,headache,dizziness,blurred vision,Low
+72,None,Male,high fever,joint pain,headache,High
+40,None,Male,fever,chills,sweating,High
+64,Hypertension,Female,thirst,fatigue,frequent urination,Low
+71,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Medium
+1,Asthma,Female,fever,chills,sweating,Medium
+63,Heart Disease,Male,thirst,fatigue,frequent urination,High
+57,Hypertension,Female,fever,stomach pain,weakness,High
+38,None,Female,cough,runny nose,sneezing,Medium
+14,Diabetes,Female,fever,dry cough,loss of taste,Medium
+71,Diabetes,Male,headache,dizziness,blurred vision,Low
+2,None,Female,breathing difficulty,wheezing,chest tightness,Low
+27,None,Male,breathing difficulty,wheezing,chest tightness,High
+81,None,Female,headache,nausea,light sensitivity,Medium
+66,Diabetes,Male,fever,dry cough,loss of taste,High
+13,Asthma,Male,fever,chills,sweating,Medium
+78,Asthma,Female,thirst,fatigue,frequent urination,Low
+48,None,Female,fever,dry cough,loss of taste,Medium
+48,None,Female,high fever,joint pain,headache,High
+59,Asthma,Female,thirst,fatigue,frequent urination,High
+85,Diabetes,Male,fever,dry cough,loss of taste,High
+75,Diabetes,Female,thirst,fatigue,frequent urination,High
+14,None,Male,breathing difficulty,wheezing,chest tightness,Low
+75,Diabetes,Female,high fever,joint pain,headache,Low
+22,None,Female,fever,dry cough,loss of taste,Medium
+81,"Diabetes, Hypertension",Male,fever,chills,sweating,Medium
+64,Hypertension,Male,cough,runny nose,sneezing,Low
+62,Hypertension,Male,fever,chills,sweating,Low
+9,None,Female,breathing difficulty,wheezing,chest tightness,High
+14,None,Female,thirst,fatigue,frequent urination,Low
+86,None,Male,cough,runny nose,sneezing,Medium
+46,None,Male,breathing difficulty,wheezing,chest tightness,Low
+20,None,Female,breathing difficulty,wheezing,chest tightness,High
+59,Asthma,Female,thirst,fatigue,frequent urination,High
+7,None,Female,fever,body pain,cough,Low
+71,Diabetes,Male,high fever,joint pain,headache,Low
+11,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+49,None,Male,high fever,joint pain,headache,High
+79,Heart Disease,Female,fever,dry cough,loss of taste,High
+52,None,Male,headache,nausea,light sensitivity,Low
+13,None,Male,fever,dry cough,loss of taste,Medium
+20,None,Female,headache,dizziness,blurred vision,Medium
+8,None,Female,fever,stomach pain,weakness,High
+12,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+3,Asthma,Female,high fever,joint pain,headache,Medium
+75,None,Male,fever,body pain,cough,Low
+76,Hypertension,Male,fever,chills,sweating,High
+78,Hypertension,Male,cough,runny nose,sneezing,Low
+19,"Diabetes, Hypertension",Female,fever,chills,sweating,Low
+48,"Diabetes, Hypertension",Female,breathing difficulty,wheezing,chest tightness,High
+40,None,Male,cough,runny nose,sneezing,Medium
+43,None,Male,thirst,fatigue,frequent urination,Low
+66,None,Male,thirst,fatigue,frequent urination,Low
+28,Heart Disease,Male,headache,dizziness,blurred vision,High
+14,None,Female,fever,dry cough,loss of taste,High
+69,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Medium
+64,Heart Disease,Female,fever,chills,sweating,Medium
+34,None,Female,fever,stomach pain,weakness,Medium
+40,None,Male,high fever,joint pain,headache,High
+58,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Low
+51,Asthma,Female,fever,dry cough,loss of taste,High
+57,Hypertension,Female,fever,body pain,cough,Medium
+50,None,Male,high fever,joint pain,headache,High
+27,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+71,None,Male,cough,runny nose,sneezing,Low
+81,None,Female,fever,dry cough,loss of taste,High
+78,Hypertension,Female,high fever,joint pain,headache,Medium
+61,Asthma,Female,cough,runny nose,sneezing,Low
+9,None,Male,fever,dry cough,loss of taste,Low
+61,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Medium
+30,None,Male,fever,chills,sweating,High
+18,None,Female,breathing difficulty,wheezing,chest tightness,Low
+23,None,Female,headache,dizziness,blurred vision,Medium
+31,None,Female,fever,chills,sweating,Low
+13,Asthma,Female,thirst,fatigue,frequent urination,Low
+20,Asthma,Female,fever,body pain,cough,Low
+62,Hypertension,Female,fever,body pain,cough,Medium
+63,Diabetes,Female,headache,dizziness,blurred vision,Medium
+34,Asthma,Male,headache,dizziness,blurred vision,High
+53,Diabetes,Female,fever,dry cough,loss of taste,Low
+50,Diabetes,Female,fever,dry cough,loss of taste,Low
+32,None,Female,fever,stomach pain,weakness,Low
+55,None,Male,fever,stomach pain,weakness,Low
+32,Diabetes,Female,breathing difficulty,wheezing,chest tightness,Low
+51,Hypertension,Male,fever,body pain,cough,Low
+7,Asthma,Female,fever,chills,sweating,Medium
+50,Asthma,Female,thirst,fatigue,frequent urination,Medium
+27,None,Male,fever,dry cough,loss of taste,Low
+70,None,Male,fever,stomach pain,weakness,High
+72,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Medium
+2,None,Female,high fever,joint pain,headache,High
+78,None,Male,fever,body pain,cough,Low
+59,None,Female,thirst,fatigue,frequent urination,Medium
+62,Hypertension,Male,high fever,joint pain,headache,High
+73,Asthma,Male,fever,body pain,cough,Low
+27,None,Female,high fever,joint pain,headache,High
+5,None,Male,fever,chills,sweating,Medium
+71,None,Male,high fever,joint pain,headache,Low
+51,Asthma,Male,fever,stomach pain,weakness,High
+60,None,Male,thirst,fatigue,frequent urination,Low
+83,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+42,Hypertension,Female,breathing difficulty,wheezing,chest tightness,High
+76,None,Female,fever,body pain,cough,Medium
+44,None,Female,fever,stomach pain,weakness,Low
+11,Asthma,Female,high fever,joint pain,headache,Medium
+42,None,Male,thirst,fatigue,frequent urination,Low
+89,Hypertension,Female,thirst,fatigue,frequent urination,Low
+52,Hypertension,Male,thirst,fatigue,frequent urination,Medium
+30,None,Male,high fever,joint pain,headache,Medium
+30,None,Female,headache,dizziness,blurred vision,Medium
+49,Hypertension,Female,headache,dizziness,blurred vision,High
+21,None,Female,headache,nausea,light sensitivity,Low
+44,None,Male,fever,chills,sweating,Low
+75,None,Male,thirst,fatigue,frequent urination,Low
+28,Hypertension,Female,high fever,joint pain,headache,Low
+64,Diabetes,Female,fever,dry cough,loss of taste,High
+56,None,Male,breathing difficulty,wheezing,chest tightness,High
+45,"Diabetes, Hypertension",Female,high fever,joint pain,headache,Medium
+68,None,Female,fever,chills,sweating,High
+10,Heart Disease,Male,cough,runny nose,sneezing,Low
+52,None,Male,breathing difficulty,wheezing,chest tightness,Low
+12,None,Male,cough,runny nose,sneezing,Medium
+21,None,Male,breathing difficulty,wheezing,chest tightness,Low
+43,Heart Disease,Male,cough,runny nose,sneezing,Low
+28,Hypertension,Male,fever,stomach pain,weakness,High
+33,None,Male,thirst,fatigue,frequent urination,Medium
+46,Asthma,Male,thirst,fatigue,frequent urination,Medium
+65,None,Female,high fever,joint pain,headache,High
+84,Heart Disease,Female,thirst,fatigue,frequent urination,Medium
+12,None,Female,high fever,joint pain,headache,High
+80,Diabetes,Female,headache,dizziness,blurred vision,High
+44,None,Male,fever,dry cough,loss of taste,Low
+71,Diabetes,Male,fever,dry cough,loss of taste,High
+84,Hypertension,Male,fever,chills,sweating,Low
+83,Diabetes,Male,fever,body pain,cough,Medium
+3,None,Male,headache,dizziness,blurred vision,Medium
+75,Asthma,Female,high fever,joint pain,headache,High
+48,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+86,None,Female,breathing difficulty,wheezing,chest tightness,High
+12,None,Male,fever,chills,sweating,High
+61,None,Male,fever,stomach pain,weakness,High
+13,Diabetes,Female,high fever,joint pain,headache,High
+6,Asthma,Female,cough,runny nose,sneezing,Medium
+34,None,Female,thirst,fatigue,frequent urination,Medium
+59,Heart Disease,Male,headache,dizziness,blurred vision,High
+15,None,Male,headache,dizziness,blurred vision,Medium
+82,Diabetes,Female,headache,dizziness,blurred vision,High
+50,None,Male,fever,body pain,cough,Low
+45,Diabetes,Male,cough,runny nose,sneezing,Medium
+79,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+45,Hypertension,Male,thirst,fatigue,frequent urination,High
+24,Hypertension,Female,fever,chills,sweating,Low
+17,None,Male,fever,chills,sweating,Medium
+20,Diabetes,Male,thirst,fatigue,frequent urination,Low
+26,None,Male,fever,body pain,cough,Medium
+36,None,Female,fever,stomach pain,weakness,Low
+8,None,Male,breathing difficulty,wheezing,chest tightness,High
+68,Diabetes,Male,high fever,joint pain,headache,High
+28,Hypertension,Female,fever,stomach pain,weakness,Low
+47,Diabetes,Female,high fever,joint pain,headache,Low
+18,None,Female,breathing difficulty,wheezing,chest tightness,Low
+17,Diabetes,Male,fever,stomach pain,weakness,Medium
+31,None,Female,headache,nausea,light sensitivity,Medium
+27,None,Male,thirst,fatigue,frequent urination,High
+30,None,Female,headache,dizziness,blurred vision,Medium
+81,Hypertension,Female,headache,nausea,light sensitivity,Low
+13,None,Female,headache,nausea,light sensitivity,Medium
+66,Diabetes,Male,high fever,joint pain,headache,Low
+70,None,Male,fever,body pain,cough,Medium
+88,None,Male,headache,dizziness,blurred vision,Low
+25,None,Female,fever,stomach pain,weakness,Low
+11,None,Male,high fever,joint pain,headache,Low
+23,None,Male,breathing difficulty,wheezing,chest tightness,Low
+76,Hypertension,Female,cough,runny nose,sneezing,Medium
+16,None,Female,fever,chills,sweating,Medium
+10,None,Male,fever,chills,sweating,High
+68,None,Female,headache,nausea,light sensitivity,Low
+81,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+39,None,Female,fever,dry cough,loss of taste,High
+60,Hypertension,Female,thirst,fatigue,frequent urination,Medium
+16,None,Female,headache,dizziness,blurred vision,High
+25,None,Male,fever,body pain,cough,Low
+37,None,Female,fever,dry cough,loss of taste,High
+90,None,Female,thirst,fatigue,frequent urination,Medium
+87,Diabetes,Male,high fever,joint pain,headache,Medium
+67,Hypertension,Male,headache,nausea,light sensitivity,Low
+59,None,Male,cough,runny nose,sneezing,Medium
+48,None,Female,fever,chills,sweating,Medium
+53,None,Female,fever,chills,sweating,Low
+88,Diabetes,Female,fever,chills,sweating,High
+90,Hypertension,Female,fever,chills,sweating,Low
+89,Diabetes,Female,fever,chills,sweating,High
+64,Asthma,Male,thirst,fatigue,frequent urination,Low
+46,Diabetes,Female,fever,stomach pain,weakness,Low
+13,None,Male,fever,dry cough,loss of taste,Low
+62,Heart Disease,Male,fever,stomach pain,weakness,Medium
+73,Diabetes,Female,headache,dizziness,blurred vision,Medium
+54,Diabetes,Male,headache,dizziness,blurred vision,Low
+63,Hypertension,Female,headache,nausea,light sensitivity,Medium
+46,None,Male,breathing difficulty,wheezing,chest tightness,Low
+64,Hypertension,Male,high fever,joint pain,headache,Medium
+81,Heart Disease,Female,fever,stomach pain,weakness,Medium
+84,Diabetes,Female,headache,dizziness,blurred vision,High
+8,None,Female,fever,stomach pain,weakness,High
+31,None,Male,fever,chills,sweating,Low
+21,None,Female,thirst,fatigue,frequent urination,Medium
+6,None,Male,high fever,joint pain,headache,Low
+17,None,Male,fever,chills,sweating,Medium
+49,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,High
+7,None,Male,fever,body pain,cough,Low
+55,None,Male,high fever,joint pain,headache,High
+83,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+38,Diabetes,Male,fever,body pain,cough,Low
+27,None,Female,headache,nausea,light sensitivity,Medium
+16,None,Female,headache,nausea,light sensitivity,Low
+3,None,Female,fever,chills,sweating,Medium
+87,Heart Disease,Female,headache,dizziness,blurred vision,High
+65,Heart Disease,Female,headache,dizziness,blurred vision,Low
+1,None,Male,fever,chills,sweating,Medium
+67,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+44,Hypertension,Male,thirst,fatigue,frequent urination,High
+11,None,Male,breathing difficulty,wheezing,chest tightness,Low
+85,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+5,None,Female,thirst,fatigue,frequent urination,High
+12,None,Male,fever,dry cough,loss of taste,High
+17,None,Female,fever,chills,sweating,Medium
+87,Hypertension,Male,fever,body pain,cough,Medium
+21,None,Male,fever,dry cough,loss of taste,Low
+50,Hypertension,Male,fever,dry cough,loss of taste,Medium
+79,None,Female,headache,nausea,light sensitivity,Low
+26,None,Male,high fever,joint pain,headache,High
+50,Diabetes,Male,fever,body pain,cough,Medium
+38,None,Male,thirst,fatigue,frequent urination,Medium
+45,Hypertension,Female,fever,body pain,cough,Low
+21,None,Male,fever,dry cough,loss of taste,High
+34,None,Female,thirst,fatigue,frequent urination,Medium
+87,"Diabetes, Hypertension",Female,cough,runny nose,sneezing,Medium
+27,None,Female,thirst,fatigue,frequent urination,Low
+40,None,Male,high fever,joint pain,headache,Medium
+57,Hypertension,Male,high fever,joint pain,headache,High
+81,Hypertension,Female,cough,runny nose,sneezing,Medium
+13,Diabetes,Male,thirst,fatigue,frequent urination,High
+63,None,Female,cough,runny nose,sneezing,Medium
+14,None,Male,breathing difficulty,wheezing,chest tightness,High
+48,None,Female,headache,dizziness,blurred vision,Medium
+90,Hypertension,Male,high fever,joint pain,headache,Low
+30,None,Female,high fever,joint pain,headache,High
+16,None,Male,thirst,fatigue,frequent urination,Low
+18,None,Male,high fever,joint pain,headache,Medium
+56,None,Female,fever,chills,sweating,Low
+28,None,Male,high fever,joint pain,headache,Low
+4,Asthma,Male,fever,dry cough,loss of taste,Low
+18,None,Female,headache,nausea,light sensitivity,Medium
+66,None,Female,fever,dry cough,loss of taste,Low
+71,Heart Disease,Male,thirst,fatigue,frequent urination,Medium
+16,None,Male,headache,dizziness,blurred vision,Low
+3,None,Male,fever,stomach pain,weakness,Medium
+82,"Diabetes, Hypertension",Male,thirst,fatigue,frequent urination,Low
+39,None,Female,cough,runny nose,sneezing,Low
+72,Diabetes,Male,headache,nausea,light sensitivity,Medium
+12,None,Male,thirst,fatigue,frequent urination,Low
+73,"Diabetes, Hypertension",Female,headache,nausea,light sensitivity,Low
+74,Heart Disease,Female,breathing difficulty,wheezing,chest tightness,Low
+12,None,Male,thirst,fatigue,frequent urination,High
+6,None,Female,fever,dry cough,loss of taste,Low
+30,None,Male,breathing difficulty,wheezing,chest tightness,Low
+18,Asthma,Male,fever,chills,sweating,Medium
+34,None,Female,fever,body pain,cough,Low
+87,None,Female,thirst,fatigue,frequent urination,Low
+20,None,Male,breathing difficulty,wheezing,chest tightness,High
+66,Hypertension,Female,high fever,joint pain,headache,Low
+43,Hypertension,Female,high fever,joint pain,headache,Low
+82,None,Male,fever,stomach pain,weakness,Medium
+52,"Diabetes, Hypertension",Male,high fever,joint pain,headache,High
+64,Hypertension,Male,headache,dizziness,blurred vision,High
+57,Diabetes,Male,breathing difficulty,wheezing,chest tightness,High
+60,Asthma,Male,headache,dizziness,blurred vision,Low
+78,None,Female,fever,dry cough,loss of taste,Medium
+64,Diabetes,Female,high fever,joint pain,headache,Medium
+23,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+54,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Low
+89,Diabetes,Male,headache,dizziness,blurred vision,Low
+60,"Diabetes, Hypertension",Male,cough,runny nose,sneezing,Medium
+9,None,Female,fever,chills,sweating,Medium
+56,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+68,Diabetes,Male,fever,stomach pain,weakness,Medium
+1,None,Female,headache,nausea,light sensitivity,Medium
+50,None,Male,breathing difficulty,wheezing,chest tightness,Medium
+28,Asthma,Female,headache,dizziness,blurred vision,Low
+20,None,Female,high fever,joint pain,headache,Medium
+69,Diabetes,Male,thirst,fatigue,frequent urination,High
+32,Heart Disease,Male,breathing difficulty,wheezing,chest tightness,Medium
+11,None,Female,high fever,joint pain,headache,High
+80,Hypertension,Male,fever,dry cough,loss of taste,Low
+40,Diabetes,Female,breathing difficulty,wheezing,chest tightness,High
+60,Heart Disease,Female,fever,dry cough,loss of taste,Low
+72,"Diabetes, Hypertension",Male,thirst,fatigue,frequent urination,Low
+16,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Low
+42,None,Male,fever,chills,sweating,Medium
+19,None,Female,fever,chills,sweating,Low
+9,None,Male,cough,runny nose,sneezing,Medium
+60,None,Male,fever,body pain,cough,Low
+87,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+62,Diabetes,Male,fever,stomach pain,weakness,Medium
+58,Diabetes,Female,high fever,joint pain,headache,High
+51,Diabetes,Female,high fever,joint pain,headache,Medium
+18,Asthma,Female,cough,runny nose,sneezing,Low
+71,"Diabetes, Hypertension",Female,fever,body pain,cough,Low
+39,None,Male,breathing difficulty,wheezing,chest tightness,High
+62,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Low
+58,Diabetes,Female,fever,stomach pain,weakness,High
+58,None,Male,headache,dizziness,blurred vision,High
+55,Diabetes,Female,high fever,joint pain,headache,High
+81,Hypertension,Male,fever,dry cough,loss of taste,Medium
+56,None,Male,cough,runny nose,sneezing,Medium
+84,Heart Disease,Male,headache,dizziness,blurred vision,Medium
+34,None,Male,thirst,fatigue,frequent urination,Low
+54,None,Female,breathing difficulty,wheezing,chest tightness,High
+65,"Diabetes, Hypertension",Male,fever,stomach pain,weakness,Low
+61,Diabetes,Female,fever,body pain,cough,Low
+4,None,Male,headache,nausea,light sensitivity,Low
+5,Asthma,Female,cough,runny nose,sneezing,Medium
+65,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Low
+61,Hypertension,Female,cough,runny nose,sneezing,Medium
+40,Hypertension,Male,cough,runny nose,sneezing,Medium
+65,"Diabetes, Hypertension",Female,high fever,joint pain,headache,High
+17,None,Male,cough,runny nose,sneezing,Low
+86,Hypertension,Female,breathing difficulty,wheezing,chest tightness,Medium
+72,None,Male,high fever,joint pain,headache,High
+73,Hypertension,Male,fever,chills,sweating,High
+87,Hypertension,Male,cough,runny nose,sneezing,Medium
+24,None,Female,thirst,fatigue,frequent urination,High
+73,"Diabetes, Hypertension",Male,high fever,joint pain,headache,High
+4,None,Female,headache,nausea,light sensitivity,Low
+76,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Medium
+14,None,Female,breathing difficulty,wheezing,chest tightness,High
+28,Hypertension,Male,fever,stomach pain,weakness,High
+11,None,Female,fever,body pain,cough,Low
+64,Diabetes,Male,breathing difficulty,wheezing,chest tightness,Medium
+25,None,Male,breathing difficulty,wheezing,chest tightness,Low
+58,"Diabetes, Hypertension",Female,breathing difficulty,wheezing,chest tightness,Medium
+67,Diabetes,Male,cough,runny nose,sneezing,Low
+10,Hypertension,Female,headache,nausea,light sensitivity,Medium
+7,None,Female,breathing difficulty,wheezing,chest tightness,High
+56,Hypertension,Male,fever,stomach pain,weakness,Medium
+11,None,Female,headache,dizziness,blurred vision,Medium
+18,Asthma,Male,headache,nausea,light sensitivity,Medium
+62,Hypertension,Male,fever,stomach pain,weakness,High
+37,Hypertension,Male,fever,stomach pain,weakness,Medium
+70,Hypertension,Male,breathing difficulty,wheezing,chest tightness,Medium
+29,None,Male,breathing difficulty,wheezing,chest tightness,Low
+43,None,Male,fever,body pain,cough,Low
+17,None,Male,cough,runny nose,sneezing,Low
+68,"Diabetes, Hypertension",Male,fever,dry cough,loss of taste,Low
+52,None,Male,headache,dizziness,blurred vision,Medium
+27,None,Male,breathing difficulty,wheezing,chest tightness,High
+19,None,Female,headache,dizziness,blurred vision,Low
+27,Asthma,Male,breathing difficulty,wheezing,chest tightness,Medium
+54,"Diabetes, Hypertension",Female,thirst,fatigue,frequent urination,Low
+26,"Diabetes, Hypertension",Female,fever,chills,sweating,Low
+57,None,Male,thirst,fatigue,frequent urination,Medium
+80,Diabetes,Male,thirst,fatigue,frequent urination,Low
+2,Heart Disease,Female,breathing difficulty,wheezing,chest tightness,Medium
+16,None,Female,breathing difficulty,wheezing,chest tightness,Medium
+7,Asthma,Male,cough,runny nose,sneezing,Low
+80,Hypertension,Female,thirst,fatigue,frequent urination,High
+20,None,Female,thirst,fatigue,frequent urination,Medium
+79,"Diabetes, Hypertension",Female,headache,nausea,light sensitivity,Low
+52,None,Male,headache,dizziness,blurred vision,Medium
+56,Diabetes,Female,fever,dry cough,loss of taste,High
+70,None,Male,headache,nausea,light sensitivity,Medium
+34,None,Female,headache,dizziness,blurred vision,Low
+62,Hypertension,Female,cough,runny nose,sneezing,Low
+15,None,Female,fever,chills,sweating,Low
+19,Hypertension,Male,cough,runny nose,sneezing,Medium
+27,Heart Disease,Female,fever,body pain,cough,Low
+82,Diabetes,Female,thirst,fatigue,frequent urination,Medium
+71,Asthma,Female,fever,chills,sweating,High
+88,None,Female,thirst,fatigue,frequent urination,Medium
+61,None,Male,fever,dry cough,loss of taste,Low
+24,None,Male,thirst,fatigue,frequent urination,Medium
+19,Hypertension,Female,fever,chills,sweating,Low
+8,Asthma,Female,high fever,joint pain,headache,Low
+42,None,Male,fever,chills,sweating,Low
+27,None,Female,headache,dizziness,blurred vision,Low
+10,None,Male,cough,runny nose,sneezing,Low
+54,None,Female,high fever,joint pain,headache,Low
+59,Hypertension,Female,headache,nausea,light sensitivity,Medium
+53,Hypertension,Male,fever,stomach pain,weakness,Medium
+2,None,Female,headache,dizziness,blurred vision,High
+72,Hypertension,Female,fever,body pain,cough,Medium
+39,None,Male,fever,stomach pain,weakness,Low
+45,Hypertension,Male,headache,nausea,light sensitivity,Medium
+88,Diabetes,Female,fever,body pain,cough,Low
+42,Diabetes,Female,fever,dry cough,loss of taste,Medium
