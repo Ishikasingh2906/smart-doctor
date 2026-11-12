@@ -247,5 +247,9 @@ def create_app(db_path=None, now_func=datetime.now):
     return app
 
 
+# Expose global app instance for Gunicorn
+app = create_app()
+
 if __name__ == "__main__":
-    create_app().run(debug=True, port=5000)
+    port = int(os.environ.get("PORT", 5000))
+    app.run(host="0.0.0.0", port=port, debug=True)
