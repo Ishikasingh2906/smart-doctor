@@ -1,0 +1,32 @@
+{
+  "_note": "PLACEHOLDER questions so the backend works end-to-end now. Member A (ML) and Member C (frontend) must replace/extend these so they match the features of the trained model exactly.",
+  "questions": [
+    {"id": "problem_area", "text": "Which part of the body is the main problem?", "options": [
+      "Heart / chest", "Bones / joints", "Head / nerves", "Skin", "General / whole body",
+      "Stomach / digestion", "Eyes", "Ear / nose / throat", "Lungs / breathing", "Muscles / movement"]},
+    {"id": "severity", "text": "How severe is the problem?", "options": ["Mild", "Moderate", "Severe"]},
+    {"id": "duration", "text": "How long have you had it?", "options": ["Less than 1 day", "1-3 days", "4-7 days", "More than a week"]},
+    {"id": "fever", "text": "Do you have a fever?", "options": ["No", "Mild", "High"]},
+    {"id": "breathing", "text": "Are you having difficulty breathing?", "options": ["No", "Slight", "Severe"]},
+    {"id": "chest_pain", "text": "Do you have chest pain?", "options": ["No", "Mild", "Severe"]},
+    {"id": "bleeding", "text": "Are you bleeding heavily?", "options": ["No", "Yes"]},
+    {"id": "worsening", "text": "Is it getting worse quickly?", "options": ["No", "Slowly", "Quickly"]}
+  ],
+  "problem_area_to_specialization": {
+    "Heart / chest": "Cardiologist",
+    "Bones / joints": "Orthopaedic",
+    "Head / nerves": "Neurologist",
+    "Skin": "Dermatologist",
+    "General / whole body": "General Physician",
+    "Stomach / digestion": "Gastroenterologist",
+    "Eyes": "Ophthalmologist",
+    "Ear / nose / throat": "ENT Specialist",
+    "Lungs / breathing": "Pulmonologist",
+    "Muscles / movement": "Physiotherapist"
+  },
+  "red_flags": [
+    {"question": "breathing",  "answer": "Severe"},
+    {"question": "chest_pain", "answer": "Severe"},
+    {"question": "bleeding",   "answer": "Yes"}
+  ]
+}

@@ -1,0 +1,49 @@
+[
+  {"id": "D001", "name": "Dr. Anita Sharma", "specialty": "General Medicine", "experience_years": 12,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "09:00", "shift_end": "17:00", "slot_minutes": 15, "base_offset_minutes": 0},
+
+  {"id": "D002", "name": "Dr. Rohit Verma", "specialty": "General Medicine", "experience_years": 8,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [0, 1, 2, 3, 4, 5],
+   "shift_start": "10:00", "shift_end": "18:00", "slot_minutes": 15, "base_offset_minutes": 5},
+
+  {"id": "D003", "name": "Dr. Meera Iyer", "specialty": "Cardiology", "experience_years": 15,
+   "supported_urgency": ["Moderate", "Urgent"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "09:00", "shift_end": "16:00", "slot_minutes": 20, "base_offset_minutes": 0},
+
+  {"id": "D004", "name": "Dr. Karan Malhotra", "specialty": "Cardiology", "experience_years": 10,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [1, 3, 5],
+   "shift_start": "11:00", "shift_end": "17:00", "slot_minutes": 20, "base_offset_minutes": 10},
+
+  {"id": "D005", "name": "Dr. Sunita Rao", "specialty": "Pulmonology", "experience_years": 14,
+   "supported_urgency": ["Low", "Moderate", "Urgent"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "09:30", "shift_end": "16:30", "slot_minutes": 20, "base_offset_minutes": 0},
+
+  {"id": "D006", "name": "Dr. Arjun Nair", "specialty": "Neurology", "experience_years": 11,
+   "supported_urgency": ["Low", "Moderate", "Urgent"], "working_days": [0, 2, 4],
+   "shift_start": "10:00", "shift_end": "16:00", "slot_minutes": 30, "base_offset_minutes": 0},
+
+  {"id": "D007", "name": "Dr. Pooja Gupta", "specialty": "Gastroenterology", "experience_years": 9,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "09:00", "shift_end": "15:00", "slot_minutes": 20, "base_offset_minutes": 5},
+
+  {"id": "D008", "name": "Dr. Neha Kapoor", "specialty": "Dermatology", "experience_years": 7,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [0, 1, 2, 3, 4, 5],
+   "shift_start": "11:00", "shift_end": "18:00", "slot_minutes": 15, "base_offset_minutes": 0},
+
+  {"id": "D009", "name": "Dr. Vikram Singh", "specialty": "Orthopedics", "experience_years": 13,
+   "supported_urgency": ["Low", "Moderate", "Urgent"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "09:00", "shift_end": "17:00", "slot_minutes": 20, "base_offset_minutes": 0},
+
+  {"id": "D010", "name": "Dr. Farah Khan", "specialty": "ENT", "experience_years": 6,
+   "supported_urgency": ["Low", "Moderate"], "working_days": [0, 1, 2, 3, 4],
+   "shift_start": "10:00", "shift_end": "16:00", "slot_minutes": 15, "base_offset_minutes": 0},
+
+  {"id": "E001", "name": "Dr. Sanjay Mehta (ER)", "specialty": "Emergency Medicine", "experience_years": 16,
+   "supported_urgency": ["Urgent"], "working_days": [0, 1, 2, 3, 4, 5, 6],
+   "shift_start": "00:00", "shift_end": "24:00", "slot_minutes": 10, "base_offset_minutes": 0},
+
+  {"id": "E002", "name": "Dr. Lakshmi Pillai (ER)", "specialty": "Emergency Medicine", "experience_years": 9,
+   "supported_urgency": ["Urgent"], "working_days": [0, 1, 2, 3, 4, 5, 6],
+   "shift_start": "00:00", "shift_end": "24:00", "slot_minutes": 10, "base_offset_minutes": 5}
+]

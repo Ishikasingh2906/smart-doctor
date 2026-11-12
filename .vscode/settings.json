@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "hospital_db",
+            "database": "${workspaceFolder:OST LAB ASSIGNEMNET}/hospital.db"
+        }
+    ]
+}
