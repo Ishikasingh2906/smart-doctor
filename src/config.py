@@ -29,3 +29,20 @@ CODE_TO_URGENCY_LEVEL = {code: level for level, code in URGENCY_LEVEL_TO_CODE.it
 
 TEST_SIZE = 0.2
 RANDOM_STATE = 42
+
+
+SYMPTOM_GROUPS = [
+    ("breathing difficulty", "wheezing", "chest tightness"),
+    ("cough", "runny nose", "sneezing"),
+    ("fever", "body pain", "cough"),
+    ("fever", "chills", "sweating"),
+    ("fever", "dry cough", "loss of taste"),
+    ("fever", "stomach pain", "weakness"),
+    ("headache", "dizziness", "blurred vision"),
+    ("headache", "nausea", "light sensitivity"),
+    ("high fever", "joint pain", "headache"),
+    ("thirst", "fatigue", "frequent urination"),
+]
+
+MIN_AGE = 0
+MAX_AGE = 120
