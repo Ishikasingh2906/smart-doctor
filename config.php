@@ -2,8 +2,8 @@
 // Shared setup + helpers. Every page does: require 'config.php';
 session_start();
 
-// Address of the Flask backend (run:  python app.py  in the backend folder)
-const API_BASE = 'http://127.0.0.1:5000';
+// Address of the Flask backend deployed live on Render
+const API_BASE = 'https://smart-doctor-cc7a.onrender.com';
 
 function e($s) { return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8'); }
 
@@ -31,7 +31,7 @@ function api($method, $path, $body = null) {
     if ($raw === false) {
         $msg = curl_error($ch);
         curl_close($ch);
-        return [0, ['error' => "Cannot reach the backend ($msg). Is 'python app.py' running?"]];
+        return [0, ['error' => "Cannot reach the backend ($msg). Is the live server responding?"]];
     }
     curl_close($ch);
     return [$status, json_decode($raw, true) ?? ['error' => 'Bad response from backend']];
